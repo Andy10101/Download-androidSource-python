@@ -33,9 +33,9 @@ if __name__ == '__main__':
              name = jsonParse.json.get(line).get("name");
              url = jsonParse.json.get(line).get("clone_url");
              count += 1;
-             
              savePath = dirName + "/" + name;
              print "\n\n\n"
+			 print "NO."+count
              if os.path.exists(savePath):
                  cmd = "cd " + savePath + "\n";
                  cmd += "git pull \n"
