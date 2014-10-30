@@ -42,7 +42,7 @@ if __name__ == '__main__':
              else :
                  cmd = "cd " + dirName + "\n";
                  cmd = "git clone " + url + "  " + savePath + " \n";                          
-             cmd += "git checkout -b " + tag_name;
+             cmd += "git checkout  " + tag_name;
             
              print cmd
              
