@@ -1,0 +1,2804 @@
+{
+  "accessories/manifest": {
+    "name": "accessories/manifest",
+    "clone_url": "https://android.googlesource.com/accessories/manifest"
+  },
+  "device/asus/deb": {
+    "name": "device/asus/deb",
+    "clone_url": "https://android.googlesource.com/device/asus/deb"
+  },
+  "device/asus/flo": {
+    "name": "device/asus/flo",
+    "clone_url": "https://android.googlesource.com/device/asus/flo"
+  },
+  "device/asus/flo-kernel": {
+    "name": "device/asus/flo-kernel",
+    "clone_url": "https://android.googlesource.com/device/asus/flo-kernel"
+  },
+  "device/asus/grouper": {
+    "name": "device/asus/grouper",
+    "clone_url": "https://android.googlesource.com/device/asus/grouper",
+    "description": "Files specific to Nexus 7"
+  },
+  "device/asus/tilapia": {
+    "name": "device/asus/tilapia",
+    "clone_url": "https://android.googlesource.com/device/asus/tilapia"
+  },
+  "device/common": {
+    "name": "device/common",
+    "clone_url": "https://android.googlesource.com/device/common"
+  },
+  "device/generic/armv7-a": {
+    "name": "device/generic/armv7-a",
+    "clone_url": "https://android.googlesource.com/device/generic/armv7-a"
+  },
+  "device/generic/armv7-a-neon": {
+    "name": "device/generic/armv7-a-neon",
+    "clone_url": "https://android.googlesource.com/device/generic/armv7-a-neon"
+  },
+  "device/generic/art": {
+    "name": "device/generic/art",
+    "clone_url": "https://android.googlesource.com/device/generic/art"
+  },
+  "device/generic/common": {
+    "name": "device/generic/common",
+    "clone_url": "https://android.googlesource.com/device/generic/common"
+  },
+  "device/generic/goldfish": {
+    "name": "device/generic/goldfish",
+    "clone_url": "https://android.googlesource.com/device/generic/goldfish"
+  },
+  "device/generic/mini-emulator-armv7-a-neon": {
+    "name": "device/generic/mini-emulator-armv7-a-neon",
+    "clone_url": "https://android.googlesource.com/device/generic/mini-emulator-armv7-a-neon"
+  },
+  "device/generic/mini-emulator-mips": {
+    "name": "device/generic/mini-emulator-mips",
+    "clone_url": "https://android.googlesource.com/device/generic/mini-emulator-mips"
+  },
+  "device/generic/mini-emulator-x86": {
+    "name": "device/generic/mini-emulator-x86",
+    "clone_url": "https://android.googlesource.com/device/generic/mini-emulator-x86"
+  },
+  "device/generic/mips": {
+    "name": "device/generic/mips",
+    "clone_url": "https://android.googlesource.com/device/generic/mips"
+  },
+  "device/generic/qemu": {
+    "name": "device/generic/qemu",
+    "clone_url": "https://android.googlesource.com/device/generic/qemu"
+  },
+  "device/generic/x86": {
+    "name": "device/generic/x86",
+    "clone_url": "https://android.googlesource.com/device/generic/x86"
+  },
+  "device/google/accessory/adk2012": {
+    "name": "device/google/accessory/adk2012",
+    "clone_url": "https://android.googlesource.com/device/google/accessory/adk2012"
+  },
+  "device/google/accessory/adk2012_demo": {
+    "name": "device/google/accessory/adk2012_demo",
+    "clone_url": "https://android.googlesource.com/device/google/accessory/adk2012_demo"
+  },
+  "device/google/accessory/arduino": {
+    "name": "device/google/accessory/arduino",
+    "clone_url": "https://android.googlesource.com/device/google/accessory/arduino",
+    "description": "Android accessory support - arduino files."
+  },
+  "device/google/accessory/demokit": {
+    "name": "device/google/accessory/demokit",
+    "clone_url": "https://android.googlesource.com/device/google/accessory/demokit",
+    "description": "Android accessory support - demo kit."
+  },
+  "device/google/phantasm": {
+    "name": "device/google/phantasm",
+    "clone_url": "https://android.googlesource.com/device/google/phantasm"
+  },
+  "device/htc/common": {
+    "name": "device/htc/common",
+    "clone_url": "https://android.googlesource.com/device/htc/common",
+    "description": "Files specific to HTC devices but shared between multiple HTC devices"
+  },
+  "device/htc/dream": {
+    "name": "device/htc/dream",
+    "clone_url": "https://android.googlesource.com/device/htc/dream",
+    "description": "Files specific to HTC dream hardware"
+  },
+  "device/htc/dream-sapphire": {
+    "name": "device/htc/dream-sapphire",
+    "clone_url": "https://android.googlesource.com/device/htc/dream-sapphire"
+  },
+  "device/htc/passion": {
+    "name": "device/htc/passion",
+    "clone_url": "https://android.googlesource.com/device/htc/passion",
+    "description": "Files specific to HTC passion hardware"
+  },
+  "device/htc/passion-common": {
+    "name": "device/htc/passion-common",
+    "clone_url": "https://android.googlesource.com/device/htc/passion-common",
+    "description": "Files specific to HTC passion hardware"
+  },
+  "device/htc/sapphire": {
+    "name": "device/htc/sapphire",
+    "clone_url": "https://android.googlesource.com/device/htc/sapphire",
+    "description": "Files specific to HTC sapphire hardware"
+  },
+  "device/lge/hammerhead": {
+    "name": "device/lge/hammerhead",
+    "clone_url": "https://android.googlesource.com/device/lge/hammerhead"
+  },
+  "device/lge/hammerhead-kernel": {
+    "name": "device/lge/hammerhead-kernel",
+    "clone_url": "https://android.googlesource.com/device/lge/hammerhead-kernel"
+  },
+  "device/lge/mako": {
+    "name": "device/lge/mako",
+    "clone_url": "https://android.googlesource.com/device/lge/mako"
+  },
+  "device/lge/mako-kernel": {
+    "name": "device/lge/mako-kernel",
+    "clone_url": "https://android.googlesource.com/device/lge/mako-kernel"
+  },
+  "device/moto/common": {
+    "name": "device/moto/common",
+    "clone_url": "https://android.googlesource.com/device/moto/common"
+  },
+  "device/moto/stingray": {
+    "name": "device/moto/stingray",
+    "clone_url": "https://android.googlesource.com/device/moto/stingray"
+  },
+  "device/moto/wingray": {
+    "name": "device/moto/wingray",
+    "clone_url": "https://android.googlesource.com/device/moto/wingray"
+  },
+  "device/sample": {
+    "name": "device/sample",
+    "clone_url": "https://android.googlesource.com/device/sample"
+  },
+  "device/samsung_slsi/arndale": {
+    "name": "device/samsung_slsi/arndale",
+    "clone_url": "https://android.googlesource.com/device/samsung_slsi/arndale"
+  },
+  "device/samsung/crespo": {
+    "name": "device/samsung/crespo",
+    "clone_url": "https://android.googlesource.com/device/samsung/crespo",
+    "description": "Files specific to Samsung crespo hardware, a.k.a. Nexus S."
+  },
+  "device/samsung/crespo4g": {
+    "name": "device/samsung/crespo4g",
+    "clone_url": "https://android.googlesource.com/device/samsung/crespo4g",
+    "description": "Files specific to Samsung crespo4g hardware, a.k.a. Nexus S 4G."
+  },
+  "device/samsung/maguro": {
+    "name": "device/samsung/maguro",
+    "clone_url": "https://android.googlesource.com/device/samsung/maguro"
+  },
+  "device/samsung/manta": {
+    "name": "device/samsung/manta",
+    "clone_url": "https://android.googlesource.com/device/samsung/manta"
+  },
+  "device/samsung/toro": {
+    "name": "device/samsung/toro",
+    "clone_url": "https://android.googlesource.com/device/samsung/toro"
+  },
+  "device/samsung/toroplus": {
+    "name": "device/samsung/toroplus",
+    "clone_url": "https://android.googlesource.com/device/samsung/toroplus",
+    "description": "Files related to toroplus, i.e. the Sprint Galaxy Nexus."
+  },
+  "device/samsung/torospr": {
+    "name": "device/samsung/torospr",
+    "clone_url": "https://android.googlesource.com/device/samsung/torospr"
+  },
+  "device/samsung/tuna": {
+    "name": "device/samsung/tuna",
+    "clone_url": "https://android.googlesource.com/device/samsung/tuna"
+  },
+  "device/sony/lt26": {
+    "name": "device/sony/lt26",
+    "clone_url": "https://android.googlesource.com/device/sony/lt26",
+    "description": "Files specific to the Sony LT26 (\"Xperia S\")"
+  },
+  "device/ti/bootloader/uboot": {
+    "name": "device/ti/bootloader/uboot",
+    "clone_url": "https://android.googlesource.com/device/ti/bootloader/uboot"
+  },
+  "device/ti/panda": {
+    "name": "device/ti/panda",
+    "clone_url": "https://android.googlesource.com/device/ti/panda"
+  },
+  "kernel/bcm": {
+    "name": "kernel/bcm",
+    "clone_url": "https://android.googlesource.com/kernel/bcm"
+  },
+  "kernel/common": {
+    "name": "kernel/common",
+    "clone_url": "https://android.googlesource.com/kernel/common",
+    "description": "Common Android Kernel Tree"
+  },
+  "kernel/exynos": {
+    "name": "kernel/exynos",
+    "clone_url": "https://android.googlesource.com/kernel/exynos"
+  },
+  "kernel/goldfish": {
+    "name": "kernel/goldfish",
+    "clone_url": "https://android.googlesource.com/kernel/goldfish"
+  },
+  "kernel/lk": {
+    "name": "kernel/lk",
+    "clone_url": "https://android.googlesource.com/kernel/lk"
+  },
+  "kernel/mediatek": {
+    "name": "kernel/mediatek",
+    "clone_url": "https://android.googlesource.com/kernel/mediatek",
+    "description": "Kernel tree for Mediatek chipsets"
+  },
+  "kernel/msm": {
+    "name": "kernel/msm",
+    "clone_url": "https://android.googlesource.com/kernel/msm",
+    "description": "Kernel tree for Qualcomm chipsets"
+  },
+  "kernel/omap": {
+    "name": "kernel/omap",
+    "clone_url": "https://android.googlesource.com/kernel/omap"
+  },
+  "kernel/samsung": {
+    "name": "kernel/samsung",
+    "clone_url": "https://android.googlesource.com/kernel/samsung",
+    "description": "Kernel tree for Samsung systems on Android."
+  },
+  "kernel/tegra": {
+    "name": "kernel/tegra",
+    "clone_url": "https://android.googlesource.com/kernel/tegra",
+    "description": "Kernel tree for NVIDIA Tegra family SOICs on Android."
+  },
+  "Kernel-Projects": {
+    "name": "Kernel-Projects",
+    "clone_url": "https://android.googlesource.com/Kernel-Projects"
+  },
+  "mirror/manifest": {
+    "name": "mirror/manifest",
+    "clone_url": "https://android.googlesource.com/mirror/manifest",
+    "description": "Manifest that contains all the projects that are hosted on the AOSP server. Useful when mirroring."
+  },
+  "platform/abi/cpp": {
+    "name": "platform/abi/cpp",
+    "clone_url": "https://android.googlesource.com/platform/abi/cpp"
+  },
+  "platform/art": {
+    "name": "platform/art",
+    "clone_url": "https://android.googlesource.com/platform/art"
+  },
+  "platform/bionic": {
+    "name": "platform/bionic",
+    "clone_url": "https://android.googlesource.com/platform/bionic",
+    "description": "libc, libm, libdl, dynamic linker"
+  },
+  "platform/bootable/bootloader/legacy": {
+    "name": "platform/bootable/bootloader/legacy",
+    "clone_url": "https://android.googlesource.com/platform/bootable/bootloader/legacy",
+    "description": "bootloader reference code"
+  },
+  "platform/bootable/diskinstaller": {
+    "name": "platform/bootable/diskinstaller",
+    "clone_url": "https://android.googlesource.com/platform/bootable/diskinstaller"
+  },
+  "platform/bootable/recovery": {
+    "name": "platform/bootable/recovery",
+    "clone_url": "https://android.googlesource.com/platform/bootable/recovery"
+  },
+  "platform/build": {
+    "name": "platform/build",
+    "clone_url": "https://android.googlesource.com/platform/build",
+    "description": "build system"
+  },
+  "platform/cts": {
+    "name": "platform/cts",
+    "clone_url": "https://android.googlesource.com/platform/cts",
+    "description": "Compatibility Test Suite"
+  },
+  "platform/dalvik": {
+    "name": "platform/dalvik",
+    "clone_url": "https://android.googlesource.com/platform/dalvik",
+    "description": "Dalvik virtual machine and core libraries"
+  },
+  "platform/dalvik2": {
+    "name": "platform/dalvik2",
+    "clone_url": "https://android.googlesource.com/platform/dalvik2"
+  },
+  "platform/dalvik-snapshot": {
+    "name": "platform/dalvik-snapshot",
+    "clone_url": "https://android.googlesource.com/platform/dalvik-snapshot"
+  },
+  "platform/developers/build": {
+    "name": "platform/developers/build",
+    "clone_url": "https://android.googlesource.com/platform/developers/build"
+  },
+  "platform/developers/demos": {
+    "name": "platform/developers/demos",
+    "clone_url": "https://android.googlesource.com/platform/developers/demos"
+  },
+  "platform/developers/docs": {
+    "name": "platform/developers/docs",
+    "clone_url": "https://android.googlesource.com/platform/developers/docs"
+  },
+  "platform/developers/samples/android": {
+    "name": "platform/developers/samples/android",
+    "clone_url": "https://android.googlesource.com/platform/developers/samples/android"
+  },
+  "platform/development": {
+    "name": "platform/development",
+    "clone_url": "https://android.googlesource.com/platform/development",
+    "description": "Platform engineering tools, sample code"
+  },
+  "platform/docs/source.android.com": {
+    "name": "platform/docs/source.android.com",
+    "clone_url": "https://android.googlesource.com/platform/docs/source.android.com",
+    "description": "Source files for the source.android.com site."
+  },
+  "platform/external/aac": {
+    "name": "platform/external/aac",
+    "clone_url": "https://android.googlesource.com/platform/external/aac"
+  },
+  "platform/external/actionbarsherlock": {
+    "name": "platform/external/actionbarsherlock",
+    "clone_url": "https://android.googlesource.com/platform/external/actionbarsherlock"
+  },
+  "platform/external/aes": {
+    "name": "platform/external/aes",
+    "clone_url": "https://android.googlesource.com/platform/external/aes"
+  },
+  "platform/external/alac": {
+    "name": "platform/external/alac",
+    "clone_url": "https://android.googlesource.com/platform/external/alac"
+  },
+  "platform/external/android-clat": {
+    "name": "platform/external/android-clat",
+    "clone_url": "https://android.googlesource.com/platform/external/android-clat"
+  },
+  "platform/external/android-mock": {
+    "name": "platform/external/android-mock",
+    "clone_url": "https://android.googlesource.com/platform/external/android-mock"
+  },
+  "platform/external/ant-glob": {
+    "name": "platform/external/ant-glob",
+    "clone_url": "https://android.googlesource.com/platform/external/ant-glob"
+  },
+  "platform/external/antlr": {
+    "name": "platform/external/antlr",
+    "clone_url": "https://android.googlesource.com/platform/external/antlr"
+  },
+  "platform/external/apache-apr": {
+    "name": "platform/external/apache-apr",
+    "clone_url": "https://android.googlesource.com/platform/external/apache-apr"
+  },
+  "platform/external/apache-apr-util": {
+    "name": "platform/external/apache-apr-util",
+    "clone_url": "https://android.googlesource.com/platform/external/apache-apr-util"
+  },
+  "platform/external/apache-harmony": {
+    "name": "platform/external/apache-harmony",
+    "clone_url": "https://android.googlesource.com/platform/external/apache-harmony"
+  },
+  "platform/external/apache-http": {
+    "name": "platform/external/apache-http",
+    "clone_url": "https://android.googlesource.com/platform/external/apache-http"
+  },
+  "platform/external/apache-log4cxx": {
+    "name": "platform/external/apache-log4cxx",
+    "clone_url": "https://android.googlesource.com/platform/external/apache-log4cxx"
+  },
+  "platform/external/apache-qp": {
+    "name": "platform/external/apache-qp",
+    "clone_url": "https://android.googlesource.com/platform/external/apache-qp",
+    "description": "Quoted-printable library"
+  },
+  "platform/external/apache-xml": {
+    "name": "platform/external/apache-xml",
+    "clone_url": "https://android.googlesource.com/platform/external/apache-xml"
+  },
+  "platform/external/apple-coreaudiosamples": {
+    "name": "platform/external/apple-coreaudiosamples",
+    "clone_url": "https://android.googlesource.com/platform/external/apple-coreaudiosamples"
+  },
+  "platform/external/arduino": {
+    "name": "platform/external/arduino",
+    "clone_url": "https://android.googlesource.com/platform/external/arduino"
+  },
+  "platform/external/arduino-ide": {
+    "name": "platform/external/arduino-ide",
+    "clone_url": "https://android.googlesource.com/platform/external/arduino-ide"
+  },
+  "platform/external/astl": {
+    "name": "platform/external/astl",
+    "clone_url": "https://android.googlesource.com/platform/external/astl"
+  },
+  "platform/external/bison": {
+    "name": "platform/external/bison",
+    "clone_url": "https://android.googlesource.com/platform/external/bison"
+  },
+  "platform/external/blktrace": {
+    "name": "platform/external/blktrace",
+    "clone_url": "https://android.googlesource.com/platform/external/blktrace"
+  },
+  "platform/external/bluetooth/bluedroid": {
+    "name": "platform/external/bluetooth/bluedroid",
+    "clone_url": "https://android.googlesource.com/platform/external/bluetooth/bluedroid"
+  },
+  "platform/external/bluetooth/bluez": {
+    "name": "platform/external/bluetooth/bluez",
+    "clone_url": "https://android.googlesource.com/platform/external/bluetooth/bluez"
+  },
+  "platform/external/bluetooth/glib": {
+    "name": "platform/external/bluetooth/glib",
+    "clone_url": "https://android.googlesource.com/platform/external/bluetooth/glib"
+  },
+  "platform/external/bluetooth/hcidump": {
+    "name": "platform/external/bluetooth/hcidump",
+    "clone_url": "https://android.googlesource.com/platform/external/bluetooth/hcidump"
+  },
+  "platform/external/bluez": {
+    "name": "platform/external/bluez",
+    "clone_url": "https://android.googlesource.com/platform/external/bluez"
+  },
+  "platform/external/boost": {
+    "name": "platform/external/boost",
+    "clone_url": "https://android.googlesource.com/platform/external/boost"
+  },
+  "platform/external/bouncycastle": {
+    "name": "platform/external/bouncycastle",
+    "clone_url": "https://android.googlesource.com/platform/external/bouncycastle"
+  },
+  "platform/external/bsdiff": {
+    "name": "platform/external/bsdiff",
+    "clone_url": "https://android.googlesource.com/platform/external/bsdiff"
+  },
+  "platform/external/bzip2": {
+    "name": "platform/external/bzip2",
+    "clone_url": "https://android.googlesource.com/platform/external/bzip2"
+  },
+  "platform/external/ceres-solver": {
+    "name": "platform/external/ceres-solver",
+    "clone_url": "https://android.googlesource.com/platform/external/ceres-solver"
+  },
+  "platform/external/checkpolicy": {
+    "name": "platform/external/checkpolicy",
+    "clone_url": "https://android.googlesource.com/platform/external/checkpolicy"
+  },
+  "platform/external/chromium": {
+    "name": "platform/external/chromium",
+    "clone_url": "https://android.googlesource.com/platform/external/chromium"
+  },
+  "platform/external/chromium_org": {
+    "name": "platform/external/chromium_org",
+    "clone_url": "https://android.googlesource.com/platform/external/chromium_org"
+  },
+  "platform/external/chromium_org/sdch/open-vcdiff": {
+    "name": "platform/external/chromium_org/sdch/open-vcdiff",
+    "clone_url": "https://android.googlesource.com/platform/external/chromium_org/sdch/open-vcdiff"
+  },
+  "platform/external/chromium_org/testing/gtest": {
+    "name": "platform/external/chromium_org/testing/gtest",
+    "clone_url": "https://android.googlesource.com/platform/external/chromium_org/testing/gtest"
+  },
+  "platform/external/chromium_org/third_party/angle": {
+    "name": "platform/external/chromium_org/third_party/angle",
+    "clone_url": "https://android.googlesource.com/platform/external/chromium_org/third_party/angle"
+  },
+  "platform/external/chromium_org/third_party/angle_dx11": {
+    "name": "platform/external/chromium_org/third_party/angle_dx11",
+    "clone_url": "https://android.googlesource.com/platform/external/chromium_org/third_party/angle_dx11"
+  },
+  "platform/external/chromium_org/third_party/boringssl/src": {
+    "name": "platform/external/chromium_org/third_party/boringssl/src",
+    "clone_url": "https://android.googlesource.com/platform/external/chromium_org/third_party/boringssl/src"
+  },
+  "platform/external/chromium_org/third_party/brotli/src": {
+    "name": "platform/external/chromium_org/third_party/brotli/src",
+    "clone_url": "https://android.googlesource.com/platform/external/chromium_org/third_party/brotli/src"
+  },
+  "platform/external/chromium_org/third_party/eyesfree/src/android/java/src/com/googlecode/eyesfree/braille": {
+    "name": "platform/external/chromium_org/third_party/eyesfree/src/android/java/src/com/googlecode/eyesfree/braille",
+    "clone_url": "https://android.googlesource.com/platform/external/chromium_org/third_party/eyesfree/src/android/java/src/com/googlecode/eyesfree/braille"
+  },
+  "platform/external/chromium_org/third_party/freetype": {
+    "name": "platform/external/chromium_org/third_party/freetype",
+    "clone_url": "https://android.googlesource.com/platform/external/chromium_org/third_party/freetype"
+  },
+  "platform/external/chromium_org/third_party/icu": {
+    "name": "platform/external/chromium_org/third_party/icu",
+    "clone_url": "https://android.googlesource.com/platform/external/chromium_org/third_party/icu"
+  },
+  "platform/external/chromium_org/third_party/leveldatabase/src": {
+    "name": "platform/external/chromium_org/third_party/leveldatabase/src",
+    "clone_url": "https://android.googlesource.com/platform/external/chromium_org/third_party/leveldatabase/src"
+  },
+  "platform/external/chromium_org/third_party/libaddressinput/src": {
+    "name": "platform/external/chromium_org/third_party/libaddressinput/src",
+    "clone_url": "https://android.googlesource.com/platform/external/chromium_org/third_party/libaddressinput/src"
+  },
+  "platform/external/chromium_org/third_party/libjingle/source/talk": {
+    "name": "platform/external/chromium_org/third_party/libjingle/source/talk",
+    "clone_url": "https://android.googlesource.com/platform/external/chromium_org/third_party/libjingle/source/talk"
+  },
+  "platform/external/chromium_org/third_party/libjpeg_turbo": {
+    "name": "platform/external/chromium_org/third_party/libjpeg_turbo",
+    "clone_url": "https://android.googlesource.com/platform/external/chromium_org/third_party/libjpeg_turbo"
+  },
+  "platform/external/chromium_org/third_party/libphonenumber/src/phonenumbers": {
+    "name": "platform/external/chromium_org/third_party/libphonenumber/src/phonenumbers",
+    "clone_url": "https://android.googlesource.com/platform/external/chromium_org/third_party/libphonenumber/src/phonenumbers"
+  },
+  "platform/external/chromium_org/third_party/libphonenumber/src/resources": {
+    "name": "platform/external/chromium_org/third_party/libphonenumber/src/resources",
+    "clone_url": "https://android.googlesource.com/platform/external/chromium_org/third_party/libphonenumber/src/resources"
+  },
+  "platform/external/chromium_org/third_party/libsrtp": {
+    "name": "platform/external/chromium_org/third_party/libsrtp",
+    "clone_url": "https://android.googlesource.com/platform/external/chromium_org/third_party/libsrtp"
+  },
+  "platform/external/chromium_org/third_party/libvpx": {
+    "name": "platform/external/chromium_org/third_party/libvpx",
+    "clone_url": "https://android.googlesource.com/platform/external/chromium_org/third_party/libvpx"
+  },
+  "platform/external/chromium_org/third_party/libyuv": {
+    "name": "platform/external/chromium_org/third_party/libyuv",
+    "clone_url": "https://android.googlesource.com/platform/external/chromium_org/third_party/libyuv"
+  },
+  "platform/external/chromium_org/third_party/mesa/src": {
+    "name": "platform/external/chromium_org/third_party/mesa/src",
+    "clone_url": "https://android.googlesource.com/platform/external/chromium_org/third_party/mesa/src"
+  },
+  "platform/external/chromium_org/third_party/openmax_dl": {
+    "name": "platform/external/chromium_org/third_party/openmax_dl",
+    "clone_url": "https://android.googlesource.com/platform/external/chromium_org/third_party/openmax_dl"
+  },
+  "platform/external/chromium_org/third_party/openssl": {
+    "name": "platform/external/chromium_org/third_party/openssl",
+    "clone_url": "https://android.googlesource.com/platform/external/chromium_org/third_party/openssl"
+  },
+  "platform/external/chromium_org/third_party/opus/src": {
+    "name": "platform/external/chromium_org/third_party/opus/src",
+    "clone_url": "https://android.googlesource.com/platform/external/chromium_org/third_party/opus/src"
+  },
+  "platform/external/chromium_org/third_party/ots": {
+    "name": "platform/external/chromium_org/third_party/ots",
+    "clone_url": "https://android.googlesource.com/platform/external/chromium_org/third_party/ots"
+  },
+  "platform/external/chromium_org/third_party/sfntly/cpp/src": {
+    "name": "platform/external/chromium_org/third_party/sfntly/cpp/src",
+    "clone_url": "https://android.googlesource.com/platform/external/chromium_org/third_party/sfntly/cpp/src"
+  },
+  "platform/external/chromium_org/third_party/skia": {
+    "name": "platform/external/chromium_org/third_party/skia",
+    "clone_url": "https://android.googlesource.com/platform/external/chromium_org/third_party/skia"
+  },
+  "platform/external/chromium_org/third_party/skia/gyp": {
+    "name": "platform/external/chromium_org/third_party/skia/gyp",
+    "clone_url": "https://android.googlesource.com/platform/external/chromium_org/third_party/skia/gyp"
+  },
+  "platform/external/chromium_org/third_party/skia/include": {
+    "name": "platform/external/chromium_org/third_party/skia/include",
+    "clone_url": "https://android.googlesource.com/platform/external/chromium_org/third_party/skia/include"
+  },
+  "platform/external/chromium_org/third_party/skia/src": {
+    "name": "platform/external/chromium_org/third_party/skia/src",
+    "clone_url": "https://android.googlesource.com/platform/external/chromium_org/third_party/skia/src"
+  },
+  "platform/external/chromium_org/third_party/smhasher/src": {
+    "name": "platform/external/chromium_org/third_party/smhasher/src",
+    "clone_url": "https://android.googlesource.com/platform/external/chromium_org/third_party/smhasher/src"
+  },
+  "platform/external/chromium_org/third_party/usrsctp/usrsctplib": {
+    "name": "platform/external/chromium_org/third_party/usrsctp/usrsctplib",
+    "clone_url": "https://android.googlesource.com/platform/external/chromium_org/third_party/usrsctp/usrsctplib"
+  },
+  "platform/external/chromium_org/third_party/WebKit": {
+    "name": "platform/external/chromium_org/third_party/WebKit",
+    "clone_url": "https://android.googlesource.com/platform/external/chromium_org/third_party/WebKit"
+  },
+  "platform/external/chromium_org/third_party/webrtc": {
+    "name": "platform/external/chromium_org/third_party/webrtc",
+    "clone_url": "https://android.googlesource.com/platform/external/chromium_org/third_party/webrtc"
+  },
+  "platform/external/chromium_org/third_party/yasm/source/patched-yasm": {
+    "name": "platform/external/chromium_org/third_party/yasm/source/patched-yasm",
+    "clone_url": "https://android.googlesource.com/platform/external/chromium_org/third_party/yasm/source/patched-yasm"
+  },
+  "platform/external/chromium_org/tools/grit": {
+    "name": "platform/external/chromium_org/tools/grit",
+    "clone_url": "https://android.googlesource.com/platform/external/chromium_org/tools/grit"
+  },
+  "platform/external/chromium_org/tools/gyp": {
+    "name": "platform/external/chromium_org/tools/gyp",
+    "clone_url": "https://android.googlesource.com/platform/external/chromium_org/tools/gyp"
+  },
+  "platform/external/chromium_org/v8": {
+    "name": "platform/external/chromium_org/v8",
+    "clone_url": "https://android.googlesource.com/platform/external/chromium_org/v8"
+  },
+  "platform/external/chromium-libpac": {
+    "name": "platform/external/chromium-libpac",
+    "clone_url": "https://android.googlesource.com/platform/external/chromium-libpac"
+  },
+  "platform/external/chromium-trace": {
+    "name": "platform/external/chromium-trace",
+    "clone_url": "https://android.googlesource.com/platform/external/chromium-trace"
+  },
+  "platform/external/cibu-fonts": {
+    "name": "platform/external/cibu-fonts",
+    "clone_url": "https://android.googlesource.com/platform/external/cibu-fonts"
+  },
+  "platform/external/clang": {
+    "name": "platform/external/clang",
+    "clone_url": "https://android.googlesource.com/platform/external/clang"
+  },
+  "platform/external/clang_35a": {
+    "name": "platform/external/clang_35a",
+    "clone_url": "https://android.googlesource.com/platform/external/clang_35a"
+  },
+  "platform/external/clearsilver": {
+    "name": "platform/external/clearsilver",
+    "clone_url": "https://android.googlesource.com/platform/external/clearsilver"
+  },
+  "platform/external/codesourcery": {
+    "name": "platform/external/codesourcery",
+    "clone_url": "https://android.googlesource.com/platform/external/codesourcery"
+  },
+  "platform/external/collada": {
+    "name": "platform/external/collada",
+    "clone_url": "https://android.googlesource.com/platform/external/collada"
+  },
+  "platform/external/compiler-rt": {
+    "name": "platform/external/compiler-rt",
+    "clone_url": "https://android.googlesource.com/platform/external/compiler-rt"
+  },
+  "platform/external/compiler-rt_35a": {
+    "name": "platform/external/compiler-rt_35a",
+    "clone_url": "https://android.googlesource.com/platform/external/compiler-rt_35a"
+  },
+  "platform/external/conscrypt": {
+    "name": "platform/external/conscrypt",
+    "clone_url": "https://android.googlesource.com/platform/external/conscrypt"
+  },
+  "platform/external/curl": {
+    "name": "platform/external/curl",
+    "clone_url": "https://android.googlesource.com/platform/external/curl"
+  },
+  "platform/external/dbus": {
+    "name": "platform/external/dbus",
+    "clone_url": "https://android.googlesource.com/platform/external/dbus"
+  },
+  "platform/external/deqp": {
+    "name": "platform/external/deqp",
+    "clone_url": "https://android.googlesource.com/platform/external/deqp"
+  },
+  "platform/external/dexmaker": {
+    "name": "platform/external/dexmaker",
+    "clone_url": "https://android.googlesource.com/platform/external/dexmaker"
+  },
+  "platform/external/dhcpcd": {
+    "name": "platform/external/dhcpcd",
+    "clone_url": "https://android.googlesource.com/platform/external/dhcpcd"
+  },
+  "platform/external/dnsmasq": {
+    "name": "platform/external/dnsmasq",
+    "clone_url": "https://android.googlesource.com/platform/external/dnsmasq"
+  },
+  "platform/external/doclava": {
+    "name": "platform/external/doclava",
+    "clone_url": "https://android.googlesource.com/platform/external/doclava"
+  },
+  "platform/external/dosfstools": {
+    "name": "platform/external/dosfstools",
+    "clone_url": "https://android.googlesource.com/platform/external/dosfstools"
+  },
+  "platform/external/droiddriver": {
+    "name": "platform/external/droiddriver",
+    "clone_url": "https://android.googlesource.com/platform/external/droiddriver"
+  },
+  "platform/external/dropbear": {
+    "name": "platform/external/dropbear",
+    "clone_url": "https://android.googlesource.com/platform/external/dropbear"
+  },
+  "platform/external/e2fsprogs": {
+    "name": "platform/external/e2fsprogs",
+    "clone_url": "https://android.googlesource.com/platform/external/e2fsprogs"
+  },
+  "platform/external/easymock": {
+    "name": "platform/external/easymock",
+    "clone_url": "https://android.googlesource.com/platform/external/easymock"
+  },
+  "platform/external/eclipse-basebuilder": {
+    "name": "platform/external/eclipse-basebuilder",
+    "clone_url": "https://android.googlesource.com/platform/external/eclipse-basebuilder"
+  },
+  "platform/external/eclipse-windowbuilder": {
+    "name": "platform/external/eclipse-windowbuilder",
+    "clone_url": "https://android.googlesource.com/platform/external/eclipse-windowbuilder"
+  },
+  "platform/external/eglib": {
+    "name": "platform/external/eglib",
+    "clone_url": "https://android.googlesource.com/platform/external/eglib"
+  },
+  "platform/external/eigen": {
+    "name": "platform/external/eigen",
+    "clone_url": "https://android.googlesource.com/platform/external/eigen"
+  },
+  "platform/external/elfcopy": {
+    "name": "platform/external/elfcopy",
+    "clone_url": "https://android.googlesource.com/platform/external/elfcopy"
+  },
+  "platform/external/elfutils": {
+    "name": "platform/external/elfutils",
+    "clone_url": "https://android.googlesource.com/platform/external/elfutils"
+  },
+  "platform/external/embunit": {
+    "name": "platform/external/embunit",
+    "clone_url": "https://android.googlesource.com/platform/external/embunit"
+  },
+  "platform/external/emma": {
+    "name": "platform/external/emma",
+    "clone_url": "https://android.googlesource.com/platform/external/emma"
+  },
+  "platform/external/esd": {
+    "name": "platform/external/esd",
+    "clone_url": "https://android.googlesource.com/platform/external/esd"
+  },
+  "platform/external/expat": {
+    "name": "platform/external/expat",
+    "clone_url": "https://android.googlesource.com/platform/external/expat"
+  },
+  "platform/external/eyes-free": {
+    "name": "platform/external/eyes-free",
+    "clone_url": "https://android.googlesource.com/platform/external/eyes-free"
+  },
+  "platform/external/f2fs-tools": {
+    "name": "platform/external/f2fs-tools",
+    "clone_url": "https://android.googlesource.com/platform/external/f2fs-tools"
+  },
+  "platform/external/faad": {
+    "name": "platform/external/faad",
+    "clone_url": "https://android.googlesource.com/platform/external/faad"
+  },
+  "platform/external/fat32lib": {
+    "name": "platform/external/fat32lib",
+    "clone_url": "https://android.googlesource.com/platform/external/fat32lib"
+  },
+  "platform/external/fdlibm": {
+    "name": "platform/external/fdlibm",
+    "clone_url": "https://android.googlesource.com/platform/external/fdlibm"
+  },
+  "platform/external/fio": {
+    "name": "platform/external/fio",
+    "clone_url": "https://android.googlesource.com/platform/external/fio"
+  },
+  "platform/external/flac": {
+    "name": "platform/external/flac",
+    "clone_url": "https://android.googlesource.com/platform/external/flac"
+  },
+  "platform/external/fonttools": {
+    "name": "platform/external/fonttools",
+    "clone_url": "https://android.googlesource.com/platform/external/fonttools"
+  },
+  "platform/external/free-image": {
+    "name": "platform/external/free-image",
+    "clone_url": "https://android.googlesource.com/platform/external/free-image"
+  },
+  "platform/external/freetype": {
+    "name": "platform/external/freetype",
+    "clone_url": "https://android.googlesource.com/platform/external/freetype"
+  },
+  "platform/external/fsck_msdos": {
+    "name": "platform/external/fsck_msdos",
+    "clone_url": "https://android.googlesource.com/platform/external/fsck_msdos"
+  },
+  "platform/external/ganymed-ssh2": {
+    "name": "platform/external/ganymed-ssh2",
+    "clone_url": "https://android.googlesource.com/platform/external/ganymed-ssh2"
+  },
+  "platform/external/gcc-demangle": {
+    "name": "platform/external/gcc-demangle",
+    "clone_url": "https://android.googlesource.com/platform/external/gcc-demangle"
+  },
+  "platform/external/gdata": {
+    "name": "platform/external/gdata",
+    "clone_url": "https://android.googlesource.com/platform/external/gdata"
+  },
+  "platform/external/genext2fs": {
+    "name": "platform/external/genext2fs",
+    "clone_url": "https://android.googlesource.com/platform/external/genext2fs"
+  },
+  "platform/external/giflib": {
+    "name": "platform/external/giflib",
+    "clone_url": "https://android.googlesource.com/platform/external/giflib"
+  },
+  "platform/external/googleclient": {
+    "name": "platform/external/googleclient",
+    "clone_url": "https://android.googlesource.com/platform/external/googleclient"
+  },
+  "platform/external/google-diff-match-patch": {
+    "name": "platform/external/google-diff-match-patch",
+    "clone_url": "https://android.googlesource.com/platform/external/google-diff-match-patch"
+  },
+  "platform/external/google-fonts/carrois-gothic-sc": {
+    "name": "platform/external/google-fonts/carrois-gothic-sc",
+    "clone_url": "https://android.googlesource.com/platform/external/google-fonts/carrois-gothic-sc"
+  },
+  "platform/external/google-fonts/coming-soon": {
+    "name": "platform/external/google-fonts/coming-soon",
+    "clone_url": "https://android.googlesource.com/platform/external/google-fonts/coming-soon"
+  },
+  "platform/external/google-fonts/dancing-script": {
+    "name": "platform/external/google-fonts/dancing-script",
+    "clone_url": "https://android.googlesource.com/platform/external/google-fonts/dancing-script"
+  },
+  "platform/external/grub": {
+    "name": "platform/external/grub",
+    "clone_url": "https://android.googlesource.com/platform/external/grub"
+  },
+  "platform/external/gsoap": {
+    "name": "platform/external/gsoap",
+    "clone_url": "https://android.googlesource.com/platform/external/gsoap"
+  },
+  "platform/external/gtest": {
+    "name": "platform/external/gtest",
+    "clone_url": "https://android.googlesource.com/platform/external/gtest"
+  },
+  "platform/external/guava": {
+    "name": "platform/external/guava",
+    "clone_url": "https://android.googlesource.com/platform/external/guava"
+  },
+  "platform/external/hamcrest": {
+    "name": "platform/external/hamcrest",
+    "clone_url": "https://android.googlesource.com/platform/external/hamcrest"
+  },
+  "platform/external/harfbuzz": {
+    "name": "platform/external/harfbuzz",
+    "clone_url": "https://android.googlesource.com/platform/external/harfbuzz"
+  },
+  "platform/external/harfbuzz_ng": {
+    "name": "platform/external/harfbuzz_ng",
+    "clone_url": "https://android.googlesource.com/platform/external/harfbuzz_ng"
+  },
+  "platform/external/hcidump": {
+    "name": "platform/external/hcidump",
+    "clone_url": "https://android.googlesource.com/platform/external/hcidump"
+  },
+  "platform/external/hsqldb": {
+    "name": "platform/external/hsqldb",
+    "clone_url": "https://android.googlesource.com/platform/external/hsqldb"
+  },
+  "platform/external/hyphenation": {
+    "name": "platform/external/hyphenation",
+    "clone_url": "https://android.googlesource.com/platform/external/hyphenation"
+  },
+  "platform/external/icu": {
+    "name": "platform/external/icu",
+    "clone_url": "https://android.googlesource.com/platform/external/icu"
+  },
+  "platform/external/icu4c": {
+    "name": "platform/external/icu4c",
+    "clone_url": "https://android.googlesource.com/platform/external/icu4c"
+  },
+  "platform/external/id3lib": {
+    "name": "platform/external/id3lib",
+    "clone_url": "https://android.googlesource.com/platform/external/id3lib"
+  },
+  "platform/external/iproute2": {
+    "name": "platform/external/iproute2",
+    "clone_url": "https://android.googlesource.com/platform/external/iproute2"
+  },
+  "platform/external/ipsec-tools": {
+    "name": "platform/external/ipsec-tools",
+    "clone_url": "https://android.googlesource.com/platform/external/ipsec-tools"
+  },
+  "platform/external/iptables": {
+    "name": "platform/external/iptables",
+    "clone_url": "https://android.googlesource.com/platform/external/iptables"
+  },
+  "platform/external/iputils": {
+    "name": "platform/external/iputils",
+    "clone_url": "https://android.googlesource.com/platform/external/iputils"
+  },
+  "platform/external/jack": {
+    "name": "platform/external/jack",
+    "clone_url": "https://android.googlesource.com/platform/external/jack"
+  },
+  "platform/external/javasqlite": {
+    "name": "platform/external/javasqlite",
+    "clone_url": "https://android.googlesource.com/platform/external/javasqlite"
+  },
+  "platform/external/javassist": {
+    "name": "platform/external/javassist",
+    "clone_url": "https://android.googlesource.com/platform/external/javassist"
+  },
+  "platform/external/jdiff": {
+    "name": "platform/external/jdiff",
+    "clone_url": "https://android.googlesource.com/platform/external/jdiff"
+  },
+  "platform/external/jemalloc": {
+    "name": "platform/external/jemalloc",
+    "clone_url": "https://android.googlesource.com/platform/external/jemalloc"
+  },
+  "platform/external/jenkins-hash": {
+    "name": "platform/external/jenkins-hash",
+    "clone_url": "https://android.googlesource.com/platform/external/jenkins-hash"
+  },
+  "platform/external/jhead": {
+    "name": "platform/external/jhead",
+    "clone_url": "https://android.googlesource.com/platform/external/jhead"
+  },
+  "platform/external/jline": {
+    "name": "platform/external/jline",
+    "clone_url": "https://android.googlesource.com/platform/external/jline"
+  },
+  "platform/external/jmdns": {
+    "name": "platform/external/jmdns",
+    "clone_url": "https://android.googlesource.com/platform/external/jmdns"
+  },
+  "platform/external/jmonkeyengine": {
+    "name": "platform/external/jmonkeyengine",
+    "clone_url": "https://android.googlesource.com/platform/external/jmonkeyengine"
+  },
+  "platform/external/jpeg": {
+    "name": "platform/external/jpeg",
+    "clone_url": "https://android.googlesource.com/platform/external/jpeg"
+  },
+  "platform/external/jsilver": {
+    "name": "platform/external/jsilver",
+    "clone_url": "https://android.googlesource.com/platform/external/jsilver"
+  },
+  "platform/external/jsoncpp": {
+    "name": "platform/external/jsoncpp",
+    "clone_url": "https://android.googlesource.com/platform/external/jsoncpp"
+  },
+  "platform/external/jsr305": {
+    "name": "platform/external/jsr305",
+    "clone_url": "https://android.googlesource.com/platform/external/jsr305"
+  },
+  "platform/external/junit": {
+    "name": "platform/external/junit",
+    "clone_url": "https://android.googlesource.com/platform/external/junit"
+  },
+  "platform/external/kernel-headers": {
+    "name": "platform/external/kernel-headers",
+    "clone_url": "https://android.googlesource.com/platform/external/kernel-headers"
+  },
+  "platform/external/lame": {
+    "name": "platform/external/lame",
+    "clone_url": "https://android.googlesource.com/platform/external/lame"
+  },
+  "platform/external/lcc": {
+    "name": "platform/external/lcc",
+    "clone_url": "https://android.googlesource.com/platform/external/lcc"
+  },
+  "platform/external/libcap-ng": {
+    "name": "platform/external/libcap-ng",
+    "clone_url": "https://android.googlesource.com/platform/external/libcap-ng"
+  },
+  "platform/external/libcxx": {
+    "name": "platform/external/libcxx",
+    "clone_url": "https://android.googlesource.com/platform/external/libcxx"
+  },
+  "platform/external/libcxx_35a": {
+    "name": "platform/external/libcxx_35a",
+    "clone_url": "https://android.googlesource.com/platform/external/libcxx_35a"
+  },
+  "platform/external/libcxxabi": {
+    "name": "platform/external/libcxxabi",
+    "clone_url": "https://android.googlesource.com/platform/external/libcxxabi"
+  },
+  "platform/external/libcxxabi_35a": {
+    "name": "platform/external/libcxxabi_35a",
+    "clone_url": "https://android.googlesource.com/platform/external/libcxxabi_35a"
+  },
+  "platform/external/libcxxrt": {
+    "name": "platform/external/libcxxrt",
+    "clone_url": "https://android.googlesource.com/platform/external/libcxxrt"
+  },
+  "platform/external/libexif": {
+    "name": "platform/external/libexif",
+    "clone_url": "https://android.googlesource.com/platform/external/libexif"
+  },
+  "platform/external/libffi": {
+    "name": "platform/external/libffi",
+    "clone_url": "https://android.googlesource.com/platform/external/libffi"
+  },
+  "platform/external/libgsm": {
+    "name": "platform/external/libgsm",
+    "clone_url": "https://android.googlesource.com/platform/external/libgsm"
+  },
+  "platform/external/liblzf": {
+    "name": "platform/external/liblzf",
+    "clone_url": "https://android.googlesource.com/platform/external/liblzf"
+  },
+  "platform/external/libmtp": {
+    "name": "platform/external/libmtp",
+    "clone_url": "https://android.googlesource.com/platform/external/libmtp"
+  },
+  "platform/external/libnfc-nci": {
+    "name": "platform/external/libnfc-nci",
+    "clone_url": "https://android.googlesource.com/platform/external/libnfc-nci"
+  },
+  "platform/external/libnfc-nxp": {
+    "name": "platform/external/libnfc-nxp",
+    "clone_url": "https://android.googlesource.com/platform/external/libnfc-nxp"
+  },
+  "platform/external/libnl": {
+    "name": "platform/external/libnl",
+    "clone_url": "https://android.googlesource.com/platform/external/libnl"
+  },
+  "platform/external/libnl-headers": {
+    "name": "platform/external/libnl-headers",
+    "clone_url": "https://android.googlesource.com/platform/external/libnl-headers"
+  },
+  "platform/external/libogg": {
+    "name": "platform/external/libogg",
+    "clone_url": "https://android.googlesource.com/platform/external/libogg"
+  },
+  "platform/external/libpcap": {
+    "name": "platform/external/libpcap",
+    "clone_url": "https://android.googlesource.com/platform/external/libpcap"
+  },
+  "platform/external/libphonenumber": {
+    "name": "platform/external/libphonenumber",
+    "clone_url": "https://android.googlesource.com/platform/external/libphonenumber"
+  },
+  "platform/external/libpng": {
+    "name": "platform/external/libpng",
+    "clone_url": "https://android.googlesource.com/platform/external/libpng"
+  },
+  "platform/external/libppp": {
+    "name": "platform/external/libppp",
+    "clone_url": "https://android.googlesource.com/platform/external/libppp"
+  },
+  "platform/external/libseccomp-helper": {
+    "name": "platform/external/libseccomp-helper",
+    "clone_url": "https://android.googlesource.com/platform/external/libseccomp-helper"
+  },
+  "platform/external/libselinux": {
+    "name": "platform/external/libselinux",
+    "clone_url": "https://android.googlesource.com/platform/external/libselinux"
+  },
+  "platform/external/libsepol": {
+    "name": "platform/external/libsepol",
+    "clone_url": "https://android.googlesource.com/platform/external/libsepol"
+  },
+  "platform/external/libssh2": {
+    "name": "platform/external/libssh2",
+    "clone_url": "https://android.googlesource.com/platform/external/libssh2"
+  },
+  "platform/external/libunwind": {
+    "name": "platform/external/libunwind",
+    "clone_url": "https://android.googlesource.com/platform/external/libunwind"
+  },
+  "platform/external/libusb": {
+    "name": "platform/external/libusb",
+    "clone_url": "https://android.googlesource.com/platform/external/libusb"
+  },
+  "platform/external/libusb_aah": {
+    "name": "platform/external/libusb_aah",
+    "clone_url": "https://android.googlesource.com/platform/external/libusb_aah"
+  },
+  "platform/external/libusb-compat": {
+    "name": "platform/external/libusb-compat",
+    "clone_url": "https://android.googlesource.com/platform/external/libusb-compat"
+  },
+  "platform/external/libvorbis": {
+    "name": "platform/external/libvorbis",
+    "clone_url": "https://android.googlesource.com/platform/external/libvorbis"
+  },
+  "platform/external/libvpx": {
+    "name": "platform/external/libvpx",
+    "clone_url": "https://android.googlesource.com/platform/external/libvpx"
+  },
+  "platform/external/libxml2": {
+    "name": "platform/external/libxml2",
+    "clone_url": "https://android.googlesource.com/platform/external/libxml2"
+  },
+  "platform/external/libxslt": {
+    "name": "platform/external/libxslt",
+    "clone_url": "https://android.googlesource.com/platform/external/libxslt"
+  },
+  "platform/external/libyuv": {
+    "name": "platform/external/libyuv",
+    "clone_url": "https://android.googlesource.com/platform/external/libyuv"
+  },
+  "platform/external/linux-tools-perf": {
+    "name": "platform/external/linux-tools-perf",
+    "clone_url": "https://android.googlesource.com/platform/external/linux-tools-perf"
+  },
+  "platform/external/littlemock": {
+    "name": "platform/external/littlemock",
+    "clone_url": "https://android.googlesource.com/platform/external/littlemock"
+  },
+  "platform/external/lldb": {
+    "name": "platform/external/lldb",
+    "clone_url": "https://android.googlesource.com/platform/external/lldb",
+    "description": "Not yet needed"
+  },
+  "platform/external/llvm": {
+    "name": "platform/external/llvm",
+    "clone_url": "https://android.googlesource.com/platform/external/llvm"
+  },
+  "platform/external/llvm_35a": {
+    "name": "platform/external/llvm_35a",
+    "clone_url": "https://android.googlesource.com/platform/external/llvm_35a"
+  },
+  "platform/external/login-items-ae": {
+    "name": "platform/external/login-items-ae",
+    "clone_url": "https://android.googlesource.com/platform/external/login-items-ae"
+  },
+  "platform/external/lohit-fonts": {
+    "name": "platform/external/lohit-fonts",
+    "clone_url": "https://android.googlesource.com/platform/external/lohit-fonts"
+  },
+  "platform/external/ltrace": {
+    "name": "platform/external/ltrace",
+    "clone_url": "https://android.googlesource.com/platform/external/ltrace"
+  },
+  "platform/external/lzma": {
+    "name": "platform/external/lzma",
+    "clone_url": "https://android.googlesource.com/platform/external/lzma"
+  },
+  "platform/external/marisa-trie": {
+    "name": "platform/external/marisa-trie",
+    "clone_url": "https://android.googlesource.com/platform/external/marisa-trie"
+  },
+  "platform/external/markdown": {
+    "name": "platform/external/markdown",
+    "clone_url": "https://android.googlesource.com/platform/external/markdown"
+  },
+  "platform/external/mdnsresponder": {
+    "name": "platform/external/mdnsresponder",
+    "clone_url": "https://android.googlesource.com/platform/external/mdnsresponder"
+  },
+  "platform/external/mesa3d": {
+    "name": "platform/external/mesa3d",
+    "clone_url": "https://android.googlesource.com/platform/external/mesa3d"
+  },
+  "platform/external/messageformat": {
+    "name": "platform/external/messageformat",
+    "clone_url": "https://android.googlesource.com/platform/external/messageformat"
+  },
+  "platform/external/mksh": {
+    "name": "platform/external/mksh",
+    "clone_url": "https://android.googlesource.com/platform/external/mksh"
+  },
+  "platform/external/mockito": {
+    "name": "platform/external/mockito",
+    "clone_url": "https://android.googlesource.com/platform/external/mockito"
+  },
+  "platform/external/mockwebserver": {
+    "name": "platform/external/mockwebserver",
+    "clone_url": "https://android.googlesource.com/platform/external/mockwebserver"
+  },
+  "platform/external/mp4parser": {
+    "name": "platform/external/mp4parser",
+    "clone_url": "https://android.googlesource.com/platform/external/mp4parser"
+  },
+  "platform/external/mp4v2": {
+    "name": "platform/external/mp4v2",
+    "clone_url": "https://android.googlesource.com/platform/external/mp4v2"
+  },
+  "platform/external/mpg123": {
+    "name": "platform/external/mpg123",
+    "clone_url": "https://android.googlesource.com/platform/external/mpg123"
+  },
+  "platform/external/mtpd": {
+    "name": "platform/external/mtpd",
+    "clone_url": "https://android.googlesource.com/platform/external/mtpd"
+  },
+  "platform/external/naver-fonts": {
+    "name": "platform/external/naver-fonts",
+    "clone_url": "https://android.googlesource.com/platform/external/naver-fonts"
+  },
+  "platform/external/netcat": {
+    "name": "platform/external/netcat",
+    "clone_url": "https://android.googlesource.com/platform/external/netcat"
+  },
+  "platform/external/netperf": {
+    "name": "platform/external/netperf",
+    "clone_url": "https://android.googlesource.com/platform/external/netperf"
+  },
+  "platform/external/neven": {
+    "name": "platform/external/neven",
+    "clone_url": "https://android.googlesource.com/platform/external/neven"
+  },
+  "platform/external/nfacct": {
+    "name": "platform/external/nfacct",
+    "clone_url": "https://android.googlesource.com/platform/external/nfacct"
+  },
+  "platform/external/nist-pkits": {
+    "name": "platform/external/nist-pkits",
+    "clone_url": "https://android.googlesource.com/platform/external/nist-pkits"
+  },
+  "platform/external/nist-sip": {
+    "name": "platform/external/nist-sip",
+    "clone_url": "https://android.googlesource.com/platform/external/nist-sip"
+  },
+  "platform/external/noto-fonts": {
+    "name": "platform/external/noto-fonts",
+    "clone_url": "https://android.googlesource.com/platform/external/noto-fonts"
+  },
+  "platform/external/oauth": {
+    "name": "platform/external/oauth",
+    "clone_url": "https://android.googlesource.com/platform/external/oauth"
+  },
+  "platform/external/objenesis": {
+    "name": "platform/external/objenesis",
+    "clone_url": "https://android.googlesource.com/platform/external/objenesis"
+  },
+  "platform/external/okhttp": {
+    "name": "platform/external/okhttp",
+    "clone_url": "https://android.googlesource.com/platform/external/okhttp"
+  },
+  "platform/external/opencore": {
+    "name": "platform/external/opencore",
+    "clone_url": "https://android.googlesource.com/platform/external/opencore",
+    "description": "OpenCORE Media Framework"
+  },
+  "platform/external/opencv": {
+    "name": "platform/external/opencv",
+    "clone_url": "https://android.googlesource.com/platform/external/opencv"
+  },
+  "platform/external/openfst": {
+    "name": "platform/external/openfst",
+    "clone_url": "https://android.googlesource.com/platform/external/openfst"
+  },
+  "platform/external/openssh": {
+    "name": "platform/external/openssh",
+    "clone_url": "https://android.googlesource.com/platform/external/openssh"
+  },
+  "platform/external/openssl": {
+    "name": "platform/external/openssl",
+    "clone_url": "https://android.googlesource.com/platform/external/openssl"
+  },
+  "platform/external/open-vcdiff": {
+    "name": "platform/external/open-vcdiff",
+    "clone_url": "https://android.googlesource.com/platform/external/open-vcdiff"
+  },
+  "platform/external/openvpn": {
+    "name": "platform/external/openvpn",
+    "clone_url": "https://android.googlesource.com/platform/external/openvpn"
+  },
+  "platform/external/oprofile": {
+    "name": "platform/external/oprofile",
+    "clone_url": "https://android.googlesource.com/platform/external/oprofile"
+  },
+  "platform/external/owasp/sanitizer": {
+    "name": "platform/external/owasp/sanitizer",
+    "clone_url": "https://android.googlesource.com/platform/external/owasp/sanitizer"
+  },
+  "platform/external/pcre": {
+    "name": "platform/external/pcre",
+    "clone_url": "https://android.googlesource.com/platform/external/pcre"
+  },
+  "platform/external/ping": {
+    "name": "platform/external/ping",
+    "clone_url": "https://android.googlesource.com/platform/external/ping"
+  },
+  "platform/external/ping6": {
+    "name": "platform/external/ping6",
+    "clone_url": "https://android.googlesource.com/platform/external/ping6"
+  },
+  "platform/external/pixman": {
+    "name": "platform/external/pixman",
+    "clone_url": "https://android.googlesource.com/platform/external/pixman"
+  },
+  "platform/external/ppp": {
+    "name": "platform/external/ppp",
+    "clone_url": "https://android.googlesource.com/platform/external/ppp"
+  },
+  "platform/external/proguard": {
+    "name": "platform/external/proguard",
+    "clone_url": "https://android.googlesource.com/platform/external/proguard"
+  },
+  "platform/external/protobuf": {
+    "name": "platform/external/protobuf",
+    "clone_url": "https://android.googlesource.com/platform/external/protobuf"
+  },
+  "platform/external/pthreads": {
+    "name": "platform/external/pthreads",
+    "clone_url": "https://android.googlesource.com/platform/external/pthreads"
+  },
+  "platform/external/qemu": {
+    "name": "platform/external/qemu",
+    "clone_url": "https://android.googlesource.com/platform/external/qemu"
+  },
+  "platform/external/qemu-pc-bios": {
+    "name": "platform/external/qemu-pc-bios",
+    "clone_url": "https://android.googlesource.com/platform/external/qemu-pc-bios"
+  },
+  "platform/external/qt": {
+    "name": "platform/external/qt",
+    "clone_url": "https://android.googlesource.com/platform/external/qt"
+  },
+  "platform/external/quake": {
+    "name": "platform/external/quake",
+    "clone_url": "https://android.googlesource.com/platform/external/quake"
+  },
+  "platform/external/regex-re2": {
+    "name": "platform/external/regex-re2",
+    "clone_url": "https://android.googlesource.com/platform/external/regex-re2"
+  },
+  "platform/external/replicaisland": {
+    "name": "platform/external/replicaisland",
+    "clone_url": "https://android.googlesource.com/platform/external/replicaisland"
+  },
+  "platform/external/robolectric": {
+    "name": "platform/external/robolectric",
+    "clone_url": "https://android.googlesource.com/platform/external/robolectric"
+  },
+  "platform/external/safe-iop": {
+    "name": "platform/external/safe-iop",
+    "clone_url": "https://android.googlesource.com/platform/external/safe-iop"
+  },
+  "platform/external/scrypt": {
+    "name": "platform/external/scrypt",
+    "clone_url": "https://android.googlesource.com/platform/external/scrypt"
+  },
+  "platform/external/sepolicy": {
+    "name": "platform/external/sepolicy",
+    "clone_url": "https://android.googlesource.com/platform/external/sepolicy"
+  },
+  "platform/external/sfntly": {
+    "name": "platform/external/sfntly",
+    "clone_url": "https://android.googlesource.com/platform/external/sfntly"
+  },
+  "platform/external/sil-fonts": {
+    "name": "platform/external/sil-fonts",
+    "clone_url": "https://android.googlesource.com/platform/external/sil-fonts"
+  },
+  "platform/external/skia": {
+    "name": "platform/external/skia",
+    "clone_url": "https://android.googlesource.com/platform/external/skia"
+  },
+  "platform/external/smack": {
+    "name": "platform/external/smack",
+    "clone_url": "https://android.googlesource.com/platform/external/smack"
+  },
+  "platform/external/smali": {
+    "name": "platform/external/smali",
+    "clone_url": "https://android.googlesource.com/platform/external/smali"
+  },
+  "platform/external/sonivox": {
+    "name": "platform/external/sonivox",
+    "clone_url": "https://android.googlesource.com/platform/external/sonivox"
+  },
+  "platform/external/speex": {
+    "name": "platform/external/speex",
+    "clone_url": "https://android.googlesource.com/platform/external/speex"
+  },
+  "platform/external/sqlite": {
+    "name": "platform/external/sqlite",
+    "clone_url": "https://android.googlesource.com/platform/external/sqlite",
+    "description": "SQLite database engine (http://sqlite.org)"
+  },
+  "platform/external/srec": {
+    "name": "platform/external/srec",
+    "clone_url": "https://android.googlesource.com/platform/external/srec"
+  },
+  "platform/external/srtp": {
+    "name": "platform/external/srtp",
+    "clone_url": "https://android.googlesource.com/platform/external/srtp"
+  },
+  "platform/external/stlport": {
+    "name": "platform/external/stlport",
+    "clone_url": "https://android.googlesource.com/platform/external/stlport"
+  },
+  "platform/external/strace": {
+    "name": "platform/external/strace",
+    "clone_url": "https://android.googlesource.com/platform/external/strace"
+  },
+  "platform/external/stressapptest": {
+    "name": "platform/external/stressapptest",
+    "clone_url": "https://android.googlesource.com/platform/external/stressapptest"
+  },
+  "platform/external/svox": {
+    "name": "platform/external/svox",
+    "clone_url": "https://android.googlesource.com/platform/external/svox"
+  },
+  "platform/external/swig": {
+    "name": "platform/external/swig",
+    "clone_url": "https://android.googlesource.com/platform/external/swig"
+  },
+  "platform/external/syspatch": {
+    "name": "platform/external/syspatch",
+    "clone_url": "https://android.googlesource.com/platform/external/syspatch"
+  },
+  "platform/external/tagsoup": {
+    "name": "platform/external/tagsoup",
+    "clone_url": "https://android.googlesource.com/platform/external/tagsoup"
+  },
+  "platform/external/tcpdump": {
+    "name": "platform/external/tcpdump",
+    "clone_url": "https://android.googlesource.com/platform/external/tcpdump"
+  },
+  "platform/external/tesseract": {
+    "name": "platform/external/tesseract",
+    "clone_url": "https://android.googlesource.com/platform/external/tesseract",
+    "description": "Tesseract Open Source OCR Engine"
+  },
+  "platform/external/timezonepicker-support": {
+    "name": "platform/external/timezonepicker-support",
+    "clone_url": "https://android.googlesource.com/platform/external/timezonepicker-support"
+  },
+  "platform/external/tinyalsa": {
+    "name": "platform/external/tinyalsa",
+    "clone_url": "https://android.googlesource.com/platform/external/tinyalsa"
+  },
+  "platform/external/tinycompress": {
+    "name": "platform/external/tinycompress",
+    "clone_url": "https://android.googlesource.com/platform/external/tinycompress"
+  },
+  "platform/external/tinyxml": {
+    "name": "platform/external/tinyxml",
+    "clone_url": "https://android.googlesource.com/platform/external/tinyxml"
+  },
+  "platform/external/tinyxml2": {
+    "name": "platform/external/tinyxml2",
+    "clone_url": "https://android.googlesource.com/platform/external/tinyxml2"
+  },
+  "platform/external/tremolo": {
+    "name": "platform/external/tremolo",
+    "clone_url": "https://android.googlesource.com/platform/external/tremolo"
+  },
+  "platform/external/tremor": {
+    "name": "platform/external/tremor",
+    "clone_url": "https://android.googlesource.com/platform/external/tremor"
+  },
+  "platform/external/unicode": {
+    "name": "platform/external/unicode",
+    "clone_url": "https://android.googlesource.com/platform/external/unicode"
+  },
+  "platform/external/utf8proc": {
+    "name": "platform/external/utf8proc",
+    "clone_url": "https://android.googlesource.com/platform/external/utf8proc"
+  },
+  "platform/external/v8": {
+    "name": "platform/external/v8",
+    "clone_url": "https://android.googlesource.com/platform/external/v8"
+  },
+  "platform/external/valgrind": {
+    "name": "platform/external/valgrind",
+    "clone_url": "https://android.googlesource.com/platform/external/valgrind"
+  },
+  "platform/external/vixl": {
+    "name": "platform/external/vixl",
+    "clone_url": "https://android.googlesource.com/platform/external/vixl"
+  },
+  "platform/external/webkit": {
+    "name": "platform/external/webkit",
+    "clone_url": "https://android.googlesource.com/platform/external/webkit"
+  },
+  "platform/external/webp": {
+    "name": "platform/external/webp",
+    "clone_url": "https://android.googlesource.com/platform/external/webp"
+  },
+  "platform/external/webrtc": {
+    "name": "platform/external/webrtc",
+    "clone_url": "https://android.googlesource.com/platform/external/webrtc"
+  },
+  "platform/external/wpa_supplicant": {
+    "name": "platform/external/wpa_supplicant",
+    "clone_url": "https://android.googlesource.com/platform/external/wpa_supplicant"
+  },
+  "platform/external/wpa_supplicant_6": {
+    "name": "platform/external/wpa_supplicant_6",
+    "clone_url": "https://android.googlesource.com/platform/external/wpa_supplicant_6"
+  },
+  "platform/external/wpa_supplicant_8": {
+    "name": "platform/external/wpa_supplicant_8",
+    "clone_url": "https://android.googlesource.com/platform/external/wpa_supplicant_8"
+  },
+  "platform/external/xdelta3": {
+    "name": "platform/external/xdelta3",
+    "clone_url": "https://android.googlesource.com/platform/external/xdelta3"
+  },
+  "platform/external/xerces-cpp": {
+    "name": "platform/external/xerces-cpp",
+    "clone_url": "https://android.googlesource.com/platform/external/xerces-cpp"
+  },
+  "platform/external/xmlwriter": {
+    "name": "platform/external/xmlwriter",
+    "clone_url": "https://android.googlesource.com/platform/external/xmlwriter"
+  },
+  "platform/external/xmp_toolkit": {
+    "name": "platform/external/xmp_toolkit",
+    "clone_url": "https://android.googlesource.com/platform/external/xmp_toolkit"
+  },
+  "platform/external/yaffs2": {
+    "name": "platform/external/yaffs2",
+    "clone_url": "https://android.googlesource.com/platform/external/yaffs2"
+  },
+  "platform/external/zlib": {
+    "name": "platform/external/zlib",
+    "clone_url": "https://android.googlesource.com/platform/external/zlib"
+  },
+  "platform/external/zxing": {
+    "name": "platform/external/zxing",
+    "clone_url": "https://android.googlesource.com/platform/external/zxing"
+  },
+  "platform/frameworks/av": {
+    "name": "platform/frameworks/av",
+    "clone_url": "https://android.googlesource.com/platform/frameworks/av"
+  },
+  "platform/frameworks/base": {
+    "name": "platform/frameworks/base",
+    "clone_url": "https://android.googlesource.com/platform/frameworks/base",
+    "description": "Android framework classes and services"
+  },
+  "platform/frameworks/compile/libbcc": {
+    "name": "platform/frameworks/compile/libbcc",
+    "clone_url": "https://android.googlesource.com/platform/frameworks/compile/libbcc"
+  },
+  "platform/frameworks/compile/linkloader": {
+    "name": "platform/frameworks/compile/linkloader",
+    "clone_url": "https://android.googlesource.com/platform/frameworks/compile/linkloader"
+  },
+  "platform/frameworks/compile/llvm-ndk-cc": {
+    "name": "platform/frameworks/compile/llvm-ndk-cc",
+    "clone_url": "https://android.googlesource.com/platform/frameworks/compile/llvm-ndk-cc"
+  },
+  "platform/frameworks/compile/mclinker": {
+    "name": "platform/frameworks/compile/mclinker",
+    "clone_url": "https://android.googlesource.com/platform/frameworks/compile/mclinker"
+  },
+  "platform/frameworks/compile/slang": {
+    "name": "platform/frameworks/compile/slang",
+    "clone_url": "https://android.googlesource.com/platform/frameworks/compile/slang"
+  },
+  "platform/frameworks/ex": {
+    "name": "platform/frameworks/ex",
+    "clone_url": "https://android.googlesource.com/platform/frameworks/ex"
+  },
+  "platform/frameworks/media/libvideoeditor": {
+    "name": "platform/frameworks/media/libvideoeditor",
+    "clone_url": "https://android.googlesource.com/platform/frameworks/media/libvideoeditor"
+  },
+  "platform/frameworks/mff": {
+    "name": "platform/frameworks/mff",
+    "clone_url": "https://android.googlesource.com/platform/frameworks/mff"
+  },
+  "platform/frameworks/ml": {
+    "name": "platform/frameworks/ml",
+    "clone_url": "https://android.googlesource.com/platform/frameworks/ml"
+  },
+  "platform/frameworks/multidex": {
+    "name": "platform/frameworks/multidex",
+    "clone_url": "https://android.googlesource.com/platform/frameworks/multidex"
+  },
+  "platform/frameworks/native": {
+    "name": "platform/frameworks/native",
+    "clone_url": "https://android.googlesource.com/platform/frameworks/native"
+  },
+  "platform/frameworks/opt/calendar": {
+    "name": "platform/frameworks/opt/calendar",
+    "clone_url": "https://android.googlesource.com/platform/frameworks/opt/calendar"
+  },
+  "platform/frameworks/opt/carddav": {
+    "name": "platform/frameworks/opt/carddav",
+    "clone_url": "https://android.googlesource.com/platform/frameworks/opt/carddav",
+    "description": "CardDAV library"
+  },
+  "platform/frameworks/opt/colorpicker": {
+    "name": "platform/frameworks/opt/colorpicker",
+    "clone_url": "https://android.googlesource.com/platform/frameworks/opt/colorpicker"
+  },
+  "platform/frameworks/opt/com.google.android": {
+    "name": "platform/frameworks/opt/com.google.android",
+    "clone_url": "https://android.googlesource.com/platform/frameworks/opt/com.google.android"
+  },
+  "platform/frameworks/opt/com.google.android.googlelogin": {
+    "name": "platform/frameworks/opt/com.google.android.googlelogin",
+    "clone_url": "https://android.googlesource.com/platform/frameworks/opt/com.google.android.googlelogin"
+  },
+  "platform/frameworks/opt/datetimepicker": {
+    "name": "platform/frameworks/opt/datetimepicker",
+    "clone_url": "https://android.googlesource.com/platform/frameworks/opt/datetimepicker"
+  },
+  "platform/frameworks/opt/emoji": {
+    "name": "platform/frameworks/opt/emoji",
+    "clone_url": "https://android.googlesource.com/platform/frameworks/opt/emoji"
+  },
+  "platform/frameworks/opt/inputconnectioncommon": {
+    "name": "platform/frameworks/opt/inputconnectioncommon",
+    "clone_url": "https://android.googlesource.com/platform/frameworks/opt/inputconnectioncommon"
+  },
+  "platform/frameworks/opt/inputmethodcommon": {
+    "name": "platform/frameworks/opt/inputmethodcommon",
+    "clone_url": "https://android.googlesource.com/platform/frameworks/opt/inputmethodcommon"
+  },
+  "platform/frameworks/opt/mailcommon": {
+    "name": "platform/frameworks/opt/mailcommon",
+    "clone_url": "https://android.googlesource.com/platform/frameworks/opt/mailcommon"
+  },
+  "platform/frameworks/opt/mms": {
+    "name": "platform/frameworks/opt/mms",
+    "clone_url": "https://android.googlesource.com/platform/frameworks/opt/mms"
+  },
+  "platform/frameworks/opt/net/voip": {
+    "name": "platform/frameworks/opt/net/voip",
+    "clone_url": "https://android.googlesource.com/platform/frameworks/opt/net/voip"
+  },
+  "platform/frameworks/opt/photoviewer": {
+    "name": "platform/frameworks/opt/photoviewer",
+    "clone_url": "https://android.googlesource.com/platform/frameworks/opt/photoviewer"
+  },
+  "platform/frameworks/opt/telephony": {
+    "name": "platform/frameworks/opt/telephony",
+    "clone_url": "https://android.googlesource.com/platform/frameworks/opt/telephony"
+  },
+  "platform/frameworks/opt/timezonepicker": {
+    "name": "platform/frameworks/opt/timezonepicker",
+    "clone_url": "https://android.googlesource.com/platform/frameworks/opt/timezonepicker"
+  },
+  "platform/frameworks/opt/vcard": {
+    "name": "platform/frameworks/opt/vcard",
+    "clone_url": "https://android.googlesource.com/platform/frameworks/opt/vcard"
+  },
+  "platform/frameworks/opt/widget": {
+    "name": "platform/frameworks/opt/widget",
+    "clone_url": "https://android.googlesource.com/platform/frameworks/opt/widget"
+  },
+  "platform/frameworks/policies/base": {
+    "name": "platform/frameworks/policies/base",
+    "clone_url": "https://android.googlesource.com/platform/frameworks/policies/base"
+  },
+  "platform/frameworks/rs": {
+    "name": "platform/frameworks/rs",
+    "clone_url": "https://android.googlesource.com/platform/frameworks/rs"
+  },
+  "platform/frameworks/support": {
+    "name": "platform/frameworks/support",
+    "clone_url": "https://android.googlesource.com/platform/frameworks/support"
+  },
+  "platform/frameworks/testing": {
+    "name": "platform/frameworks/testing",
+    "clone_url": "https://android.googlesource.com/platform/frameworks/testing"
+  },
+  "platform/frameworks/uiautomator": {
+    "name": "platform/frameworks/uiautomator",
+    "clone_url": "https://android.googlesource.com/platform/frameworks/uiautomator"
+  },
+  "platform/frameworks/volley": {
+    "name": "platform/frameworks/volley",
+    "clone_url": "https://android.googlesource.com/platform/frameworks/volley"
+  },
+  "platform/frameworks/webview": {
+    "name": "platform/frameworks/webview",
+    "clone_url": "https://android.googlesource.com/platform/frameworks/webview"
+  },
+  "platform/frameworks/wilhelm": {
+    "name": "platform/frameworks/wilhelm",
+    "clone_url": "https://android.googlesource.com/platform/frameworks/wilhelm"
+  },
+  "platform/gdk": {
+    "name": "platform/gdk",
+    "clone_url": "https://android.googlesource.com/platform/gdk"
+  },
+  "platform/hardware/akm": {
+    "name": "platform/hardware/akm",
+    "clone_url": "https://android.googlesource.com/platform/hardware/akm"
+  },
+  "platform/hardware/broadcom/libbt": {
+    "name": "platform/hardware/broadcom/libbt",
+    "clone_url": "https://android.googlesource.com/platform/hardware/broadcom/libbt"
+  },
+  "platform/hardware/broadcom/wlan": {
+    "name": "platform/hardware/broadcom/wlan",
+    "clone_url": "https://android.googlesource.com/platform/hardware/broadcom/wlan"
+  },
+  "platform/hardware/google": {
+    "name": "platform/hardware/google",
+    "clone_url": "https://android.googlesource.com/platform/hardware/google"
+  },
+  "platform/hardware/invensense": {
+    "name": "platform/hardware/invensense",
+    "clone_url": "https://android.googlesource.com/platform/hardware/invensense"
+  },
+  "platform/hardware/libhardware": {
+    "name": "platform/hardware/libhardware",
+    "clone_url": "https://android.googlesource.com/platform/hardware/libhardware",
+    "description": "hardware abstraction library"
+  },
+  "platform/hardware/libhardware_legacy": {
+    "name": "platform/hardware/libhardware_legacy",
+    "clone_url": "https://android.googlesource.com/platform/hardware/libhardware_legacy"
+  },
+  "platform/hardware/msm7k": {
+    "name": "platform/hardware/msm7k",
+    "clone_url": "https://android.googlesource.com/platform/hardware/msm7k",
+    "description": "msm7k hardware glue"
+  },
+  "platform/hardware/qcom/audio": {
+    "name": "platform/hardware/qcom/audio",
+    "clone_url": "https://android.googlesource.com/platform/hardware/qcom/audio"
+  },
+  "platform/hardware/qcom/bt": {
+    "name": "platform/hardware/qcom/bt",
+    "clone_url": "https://android.googlesource.com/platform/hardware/qcom/bt"
+  },
+  "platform/hardware/qcom/camera": {
+    "name": "platform/hardware/qcom/camera",
+    "clone_url": "https://android.googlesource.com/platform/hardware/qcom/camera"
+  },
+  "platform/hardware/qcom/display": {
+    "name": "platform/hardware/qcom/display",
+    "clone_url": "https://android.googlesource.com/platform/hardware/qcom/display"
+  },
+  "platform/hardware/qcom/gps": {
+    "name": "platform/hardware/qcom/gps",
+    "clone_url": "https://android.googlesource.com/platform/hardware/qcom/gps"
+  },
+  "platform/hardware/qcom/keymaster": {
+    "name": "platform/hardware/qcom/keymaster",
+    "clone_url": "https://android.googlesource.com/platform/hardware/qcom/keymaster"
+  },
+  "platform/hardware/qcom/media": {
+    "name": "platform/hardware/qcom/media",
+    "clone_url": "https://android.googlesource.com/platform/hardware/qcom/media"
+  },
+  "platform/hardware/qcom/msm8960": {
+    "name": "platform/hardware/qcom/msm8960",
+    "clone_url": "https://android.googlesource.com/platform/hardware/qcom/msm8960"
+  },
+  "platform/hardware/qcom/msm8x74": {
+    "name": "platform/hardware/qcom/msm8x74",
+    "clone_url": "https://android.googlesource.com/platform/hardware/qcom/msm8x74"
+  },
+  "platform/hardware/qcom/power": {
+    "name": "platform/hardware/qcom/power",
+    "clone_url": "https://android.googlesource.com/platform/hardware/qcom/power"
+  },
+  "platform/hardware/qcom/sensors": {
+    "name": "platform/hardware/qcom/sensors",
+    "clone_url": "https://android.googlesource.com/platform/hardware/qcom/sensors"
+  },
+  "platform/hardware/qcom/wlan": {
+    "name": "platform/hardware/qcom/wlan",
+    "clone_url": "https://android.googlesource.com/platform/hardware/qcom/wlan"
+  },
+  "platform/hardware/ril": {
+    "name": "platform/hardware/ril",
+    "clone_url": "https://android.googlesource.com/platform/hardware/ril",
+    "description": "radio interface layer"
+  },
+  "platform/hardware/samsung_slsi/exynos5": {
+    "name": "platform/hardware/samsung_slsi/exynos5",
+    "clone_url": "https://android.googlesource.com/platform/hardware/samsung_slsi/exynos5"
+  },
+  "platform/hardware/ti/omap3": {
+    "name": "platform/hardware/ti/omap3",
+    "clone_url": "https://android.googlesource.com/platform/hardware/ti/omap3"
+  },
+  "platform/hardware/ti/omap4-aah": {
+    "name": "platform/hardware/ti/omap4-aah",
+    "clone_url": "https://android.googlesource.com/platform/hardware/ti/omap4-aah"
+  },
+  "platform/hardware/ti/omap4xxx": {
+    "name": "platform/hardware/ti/omap4xxx",
+    "clone_url": "https://android.googlesource.com/platform/hardware/ti/omap4xxx"
+  },
+  "platform/hardware/ti/wlan": {
+    "name": "platform/hardware/ti/wlan",
+    "clone_url": "https://android.googlesource.com/platform/hardware/ti/wlan"
+  },
+  "platform/hardware/ti/wpan": {
+    "name": "platform/hardware/ti/wpan",
+    "clone_url": "https://android.googlesource.com/platform/hardware/ti/wpan"
+  },
+  "platform/libcore": {
+    "name": "platform/libcore",
+    "clone_url": "https://android.googlesource.com/platform/libcore"
+  },
+  "platform/libcore2": {
+    "name": "platform/libcore2",
+    "clone_url": "https://android.googlesource.com/platform/libcore2"
+  },
+  "platform/libcore-snapshot": {
+    "name": "platform/libcore-snapshot",
+    "clone_url": "https://android.googlesource.com/platform/libcore-snapshot"
+  },
+  "platform/libnativehelper": {
+    "name": "platform/libnativehelper",
+    "clone_url": "https://android.googlesource.com/platform/libnativehelper"
+  },
+  "platform/manifest": {
+    "name": "platform/manifest",
+    "clone_url": "https://android.googlesource.com/platform/manifest",
+    "description": "Android Platform Manifest"
+  },
+  "platform/motodev": {
+    "name": "platform/motodev",
+    "clone_url": "https://android.googlesource.com/platform/motodev"
+  },
+  "platform/ndk": {
+    "name": "platform/ndk",
+    "clone_url": "https://android.googlesource.com/platform/ndk"
+  },
+  "platform/packages/apps/AccountsAndSyncSettings": {
+    "name": "platform/packages/apps/AccountsAndSyncSettings",
+    "clone_url": "https://android.googlesource.com/platform/packages/apps/AccountsAndSyncSettings"
+  },
+  "platform/packages/apps/AlarmClock": {
+    "name": "platform/packages/apps/AlarmClock",
+    "clone_url": "https://android.googlesource.com/platform/packages/apps/AlarmClock"
+  },
+  "platform/packages/apps/BasicSmsReceiver": {
+    "name": "platform/packages/apps/BasicSmsReceiver",
+    "clone_url": "https://android.googlesource.com/platform/packages/apps/BasicSmsReceiver"
+  },
+  "platform/packages/apps/Bluetooth": {
+    "name": "platform/packages/apps/Bluetooth",
+    "clone_url": "https://android.googlesource.com/platform/packages/apps/Bluetooth"
+  },
+  "platform/packages/apps/Browser": {
+    "name": "platform/packages/apps/Browser",
+    "clone_url": "https://android.googlesource.com/platform/packages/apps/Browser"
+  },
+  "platform/packages/apps/Calculator": {
+    "name": "platform/packages/apps/Calculator",
+    "clone_url": "https://android.googlesource.com/platform/packages/apps/Calculator"
+  },
+  "platform/packages/apps/Calendar": {
+    "name": "platform/packages/apps/Calendar",
+    "clone_url": "https://android.googlesource.com/platform/packages/apps/Calendar"
+  },
+  "platform/packages/apps/Camera": {
+    "name": "platform/packages/apps/Camera",
+    "clone_url": "https://android.googlesource.com/platform/packages/apps/Camera"
+  },
+  "platform/packages/apps/Camera2": {
+    "name": "platform/packages/apps/Camera2",
+    "clone_url": "https://android.googlesource.com/platform/packages/apps/Camera2"
+  },
+  "platform/packages/apps/CellBroadcastReceiver": {
+    "name": "platform/packages/apps/CellBroadcastReceiver",
+    "clone_url": "https://android.googlesource.com/platform/packages/apps/CellBroadcastReceiver"
+  },
+  "platform/packages/apps/CertInstaller": {
+    "name": "platform/packages/apps/CertInstaller",
+    "clone_url": "https://android.googlesource.com/platform/packages/apps/CertInstaller"
+  },
+  "platform/packages/apps/Contacts": {
+    "name": "platform/packages/apps/Contacts",
+    "clone_url": "https://android.googlesource.com/platform/packages/apps/Contacts",
+    "description": "UI for the Contacts, Call log, and Dialer applications"
+  },
+  "platform/packages/apps/ContactsCommon": {
+    "name": "platform/packages/apps/ContactsCommon",
+    "clone_url": "https://android.googlesource.com/platform/packages/apps/ContactsCommon"
+  },
+  "platform/packages/apps/DeskClock": {
+    "name": "platform/packages/apps/DeskClock",
+    "clone_url": "https://android.googlesource.com/platform/packages/apps/DeskClock"
+  },
+  "platform/packages/apps/Dialer": {
+    "name": "platform/packages/apps/Dialer",
+    "clone_url": "https://android.googlesource.com/platform/packages/apps/Dialer"
+  },
+  "platform/packages/apps/Email": {
+    "name": "platform/packages/apps/Email",
+    "clone_url": "https://android.googlesource.com/platform/packages/apps/Email"
+  },
+  "platform/packages/apps/Exchange": {
+    "name": "platform/packages/apps/Exchange",
+    "clone_url": "https://android.googlesource.com/platform/packages/apps/Exchange"
+  },
+  "platform/packages/apps/Gallery": {
+    "name": "platform/packages/apps/Gallery",
+    "clone_url": "https://android.googlesource.com/platform/packages/apps/Gallery"
+  },
+  "platform/packages/apps/Gallery2": {
+    "name": "platform/packages/apps/Gallery2",
+    "clone_url": "https://android.googlesource.com/platform/packages/apps/Gallery2"
+  },
+  "platform/packages/apps/Gallery3D": {
+    "name": "platform/packages/apps/Gallery3D",
+    "clone_url": "https://android.googlesource.com/platform/packages/apps/Gallery3D"
+  },
+  "platform/packages/apps/GlobalSearch": {
+    "name": "platform/packages/apps/GlobalSearch",
+    "clone_url": "https://android.googlesource.com/platform/packages/apps/GlobalSearch"
+  },
+  "platform/packages/apps/GoogleSearch": {
+    "name": "platform/packages/apps/GoogleSearch",
+    "clone_url": "https://android.googlesource.com/platform/packages/apps/GoogleSearch"
+  },
+  "platform/packages/apps/HTMLViewer": {
+    "name": "platform/packages/apps/HTMLViewer",
+    "clone_url": "https://android.googlesource.com/platform/packages/apps/HTMLViewer"
+  },
+  "platform/packages/apps/IM": {
+    "name": "platform/packages/apps/IM",
+    "clone_url": "https://android.googlesource.com/platform/packages/apps/IM"
+  },
+  "platform/packages/apps/InCallUI": {
+    "name": "platform/packages/apps/InCallUI",
+    "clone_url": "https://android.googlesource.com/platform/packages/apps/InCallUI"
+  },
+  "platform/packages/apps/KeyChain": {
+    "name": "platform/packages/apps/KeyChain",
+    "clone_url": "https://android.googlesource.com/platform/packages/apps/KeyChain"
+  },
+  "platform/packages/apps/Launcher": {
+    "name": "platform/packages/apps/Launcher",
+    "clone_url": "https://android.googlesource.com/platform/packages/apps/Launcher"
+  },
+  "platform/packages/apps/Launcher2": {
+    "name": "platform/packages/apps/Launcher2",
+    "clone_url": "https://android.googlesource.com/platform/packages/apps/Launcher2"
+  },
+  "platform/packages/apps/Launcher3": {
+    "name": "platform/packages/apps/Launcher3",
+    "clone_url": "https://android.googlesource.com/platform/packages/apps/Launcher3"
+  },
+  "platform/packages/apps/LegacyCamera": {
+    "name": "platform/packages/apps/LegacyCamera",
+    "clone_url": "https://android.googlesource.com/platform/packages/apps/LegacyCamera"
+  },
+  "platform/packages/apps/McLauncher": {
+    "name": "platform/packages/apps/McLauncher",
+    "clone_url": "https://android.googlesource.com/platform/packages/apps/McLauncher"
+  },
+  "platform/packages/apps/Mms": {
+    "name": "platform/packages/apps/Mms",
+    "clone_url": "https://android.googlesource.com/platform/packages/apps/Mms"
+  },
+  "platform/packages/apps/Music": {
+    "name": "platform/packages/apps/Music",
+    "clone_url": "https://android.googlesource.com/platform/packages/apps/Music"
+  },
+  "platform/packages/apps/MusicFX": {
+    "name": "platform/packages/apps/MusicFX",
+    "clone_url": "https://android.googlesource.com/platform/packages/apps/MusicFX"
+  },
+  "platform/packages/apps/Nfc": {
+    "name": "platform/packages/apps/Nfc",
+    "clone_url": "https://android.googlesource.com/platform/packages/apps/Nfc"
+  },
+  "platform/packages/apps/OMA-DM": {
+    "name": "platform/packages/apps/OMA-DM",
+    "clone_url": "https://android.googlesource.com/platform/packages/apps/OMA-DM"
+  },
+  "platform/packages/apps/OneTimeInitializer": {
+    "name": "platform/packages/apps/OneTimeInitializer",
+    "clone_url": "https://android.googlesource.com/platform/packages/apps/OneTimeInitializer"
+  },
+  "platform/packages/apps/PackageInstaller": {
+    "name": "platform/packages/apps/PackageInstaller",
+    "clone_url": "https://android.googlesource.com/platform/packages/apps/PackageInstaller"
+  },
+  "platform/packages/apps/Phone": {
+    "name": "platform/packages/apps/Phone",
+    "clone_url": "https://android.googlesource.com/platform/packages/apps/Phone",
+    "description": "Call management UI"
+  },
+  "platform/packages/apps/PhoneCommon": {
+    "name": "platform/packages/apps/PhoneCommon",
+    "clone_url": "https://android.googlesource.com/platform/packages/apps/PhoneCommon"
+  },
+  "platform/packages/apps/Protips": {
+    "name": "platform/packages/apps/Protips",
+    "clone_url": "https://android.googlesource.com/platform/packages/apps/Protips"
+  },
+  "platform/packages/apps/Provision": {
+    "name": "platform/packages/apps/Provision",
+    "clone_url": "https://android.googlesource.com/platform/packages/apps/Provision",
+    "description": "Minimal configuration/provisioning app"
+  },
+  "platform/packages/apps/QuickSearchBox": {
+    "name": "platform/packages/apps/QuickSearchBox",
+    "clone_url": "https://android.googlesource.com/platform/packages/apps/QuickSearchBox"
+  },
+  "platform/packages/apps/Settings": {
+    "name": "platform/packages/apps/Settings",
+    "clone_url": "https://android.googlesource.com/platform/packages/apps/Settings"
+  },
+  "platform/packages/apps/SmartCardService": {
+    "name": "platform/packages/apps/SmartCardService",
+    "clone_url": "https://android.googlesource.com/platform/packages/apps/SmartCardService"
+  },
+  "platform/packages/apps/SoundRecorder": {
+    "name": "platform/packages/apps/SoundRecorder",
+    "clone_url": "https://android.googlesource.com/platform/packages/apps/SoundRecorder"
+  },
+  "platform/packages/apps/SpareParts": {
+    "name": "platform/packages/apps/SpareParts",
+    "clone_url": "https://android.googlesource.com/platform/packages/apps/SpareParts"
+  },
+  "platform/packages/apps/SpeechRecorder": {
+    "name": "platform/packages/apps/SpeechRecorder",
+    "clone_url": "https://android.googlesource.com/platform/packages/apps/SpeechRecorder"
+  },
+  "platform/packages/apps/Stk": {
+    "name": "platform/packages/apps/Stk",
+    "clone_url": "https://android.googlesource.com/platform/packages/apps/Stk"
+  },
+  "platform/packages/apps/Sync": {
+    "name": "platform/packages/apps/Sync",
+    "clone_url": "https://android.googlesource.com/platform/packages/apps/Sync"
+  },
+  "platform/packages/apps/Tag": {
+    "name": "platform/packages/apps/Tag",
+    "clone_url": "https://android.googlesource.com/platform/packages/apps/Tag"
+  },
+  "platform/packages/apps/TvSettings": {
+    "name": "platform/packages/apps/TvSettings",
+    "clone_url": "https://android.googlesource.com/platform/packages/apps/TvSettings"
+  },
+  "platform/packages/apps/UnifiedEmail": {
+    "name": "platform/packages/apps/UnifiedEmail",
+    "clone_url": "https://android.googlesource.com/platform/packages/apps/UnifiedEmail"
+  },
+  "platform/packages/apps/Updater": {
+    "name": "platform/packages/apps/Updater",
+    "clone_url": "https://android.googlesource.com/platform/packages/apps/Updater"
+  },
+  "platform/packages/apps/VideoEditor": {
+    "name": "platform/packages/apps/VideoEditor",
+    "clone_url": "https://android.googlesource.com/platform/packages/apps/VideoEditor"
+  },
+  "platform/packages/apps/VoiceDialer": {
+    "name": "platform/packages/apps/VoiceDialer",
+    "clone_url": "https://android.googlesource.com/platform/packages/apps/VoiceDialer"
+  },
+  "platform/packages/experimental": {
+    "name": "platform/packages/experimental",
+    "clone_url": "https://android.googlesource.com/platform/packages/experimental"
+  },
+  "platform/packages/inputmethods/LatinIME": {
+    "name": "platform/packages/inputmethods/LatinIME",
+    "clone_url": "https://android.googlesource.com/platform/packages/inputmethods/LatinIME"
+  },
+  "platform/packages/inputmethods/OpenWnn": {
+    "name": "platform/packages/inputmethods/OpenWnn",
+    "clone_url": "https://android.googlesource.com/platform/packages/inputmethods/OpenWnn"
+  },
+  "platform/packages/inputmethods/PinyinIME": {
+    "name": "platform/packages/inputmethods/PinyinIME",
+    "clone_url": "https://android.googlesource.com/platform/packages/inputmethods/PinyinIME"
+  },
+  "platform/packages/providers/ApplicationsProvider": {
+    "name": "platform/packages/providers/ApplicationsProvider",
+    "clone_url": "https://android.googlesource.com/platform/packages/providers/ApplicationsProvider"
+  },
+  "platform/packages/providers/CalendarProvider": {
+    "name": "platform/packages/providers/CalendarProvider",
+    "clone_url": "https://android.googlesource.com/platform/packages/providers/CalendarProvider",
+    "description": "Content provider for calendar data"
+  },
+  "platform/packages/providers/ContactsProvider": {
+    "name": "platform/packages/providers/ContactsProvider",
+    "clone_url": "https://android.googlesource.com/platform/packages/providers/ContactsProvider",
+    "description": "Content provider for contacts and call log data"
+  },
+  "platform/packages/providers/DownloadProvider": {
+    "name": "platform/packages/providers/DownloadProvider",
+    "clone_url": "https://android.googlesource.com/platform/packages/providers/DownloadProvider",
+    "description": "Download Manager"
+  },
+  "platform/packages/providers/DrmProvider": {
+    "name": "platform/packages/providers/DrmProvider",
+    "clone_url": "https://android.googlesource.com/platform/packages/providers/DrmProvider"
+  },
+  "platform/packages/providers/GoogleContactsProvider": {
+    "name": "platform/packages/providers/GoogleContactsProvider",
+    "clone_url": "https://android.googlesource.com/platform/packages/providers/GoogleContactsProvider",
+    "description": "ContactsProvider to sync contacts with Google"
+  },
+  "platform/packages/providers/GoogleSubscribedFeedsProvider": {
+    "name": "platform/packages/providers/GoogleSubscribedFeedsProvider",
+    "clone_url": "https://android.googlesource.com/platform/packages/providers/GoogleSubscribedFeedsProvider"
+  },
+  "platform/packages/providers/ImProvider": {
+    "name": "platform/packages/providers/ImProvider",
+    "clone_url": "https://android.googlesource.com/platform/packages/providers/ImProvider"
+  },
+  "platform/packages/providers/ManagementProvider": {
+    "name": "platform/packages/providers/ManagementProvider",
+    "clone_url": "https://android.googlesource.com/platform/packages/providers/ManagementProvider"
+  },
+  "platform/packages/providers/MediaProvider": {
+    "name": "platform/packages/providers/MediaProvider",
+    "clone_url": "https://android.googlesource.com/platform/packages/providers/MediaProvider"
+  },
+  "platform/packages/providers/PartnerBookmarksProvider": {
+    "name": "platform/packages/providers/PartnerBookmarksProvider",
+    "clone_url": "https://android.googlesource.com/platform/packages/providers/PartnerBookmarksProvider"
+  },
+  "platform/packages/providers/TelephonyProvider": {
+    "name": "platform/packages/providers/TelephonyProvider",
+    "clone_url": "https://android.googlesource.com/platform/packages/providers/TelephonyProvider"
+  },
+  "platform/packages/providers/UserDictionaryProvider": {
+    "name": "platform/packages/providers/UserDictionaryProvider",
+    "clone_url": "https://android.googlesource.com/platform/packages/providers/UserDictionaryProvider"
+  },
+  "platform/packages/providers/WebSearchProvider": {
+    "name": "platform/packages/providers/WebSearchProvider",
+    "clone_url": "https://android.googlesource.com/platform/packages/providers/WebSearchProvider"
+  },
+  "platform/packages/screensavers/Basic": {
+    "name": "platform/packages/screensavers/Basic",
+    "clone_url": "https://android.googlesource.com/platform/packages/screensavers/Basic"
+  },
+  "platform/packages/screensavers/PhotoTable": {
+    "name": "platform/packages/screensavers/PhotoTable",
+    "clone_url": "https://android.googlesource.com/platform/packages/screensavers/PhotoTable"
+  },
+  "platform/packages/screensavers/WebView": {
+    "name": "platform/packages/screensavers/WebView",
+    "clone_url": "https://android.googlesource.com/platform/packages/screensavers/WebView"
+  },
+  "platform/packages/services/EasService": {
+    "name": "platform/packages/services/EasService",
+    "clone_url": "https://android.googlesource.com/platform/packages/services/EasService"
+  },
+  "platform/packages/services/LockAndWipe": {
+    "name": "platform/packages/services/LockAndWipe",
+    "clone_url": "https://android.googlesource.com/platform/packages/services/LockAndWipe"
+  },
+  "platform/packages/services/Telephony": {
+    "name": "platform/packages/services/Telephony",
+    "clone_url": "https://android.googlesource.com/platform/packages/services/Telephony"
+  },
+  "platform/packages/wallpapers/Basic": {
+    "name": "platform/packages/wallpapers/Basic",
+    "clone_url": "https://android.googlesource.com/platform/packages/wallpapers/Basic"
+  },
+  "platform/packages/wallpapers/Galaxy4": {
+    "name": "platform/packages/wallpapers/Galaxy4",
+    "clone_url": "https://android.googlesource.com/platform/packages/wallpapers/Galaxy4"
+  },
+  "platform/packages/wallpapers/HoloSpiral": {
+    "name": "platform/packages/wallpapers/HoloSpiral",
+    "clone_url": "https://android.googlesource.com/platform/packages/wallpapers/HoloSpiral"
+  },
+  "platform/packages/wallpapers/LivePicker": {
+    "name": "platform/packages/wallpapers/LivePicker",
+    "clone_url": "https://android.googlesource.com/platform/packages/wallpapers/LivePicker"
+  },
+  "platform/packages/wallpapers/MagicSmoke": {
+    "name": "platform/packages/wallpapers/MagicSmoke",
+    "clone_url": "https://android.googlesource.com/platform/packages/wallpapers/MagicSmoke"
+  },
+  "platform/packages/wallpapers/MusicVisualization": {
+    "name": "platform/packages/wallpapers/MusicVisualization",
+    "clone_url": "https://android.googlesource.com/platform/packages/wallpapers/MusicVisualization"
+  },
+  "platform/packages/wallpapers/NoiseField": {
+    "name": "platform/packages/wallpapers/NoiseField",
+    "clone_url": "https://android.googlesource.com/platform/packages/wallpapers/NoiseField"
+  },
+  "platform/packages/wallpapers/PhaseBeam": {
+    "name": "platform/packages/wallpapers/PhaseBeam",
+    "clone_url": "https://android.googlesource.com/platform/packages/wallpapers/PhaseBeam"
+  },
+  "platform/pdk": {
+    "name": "platform/pdk",
+    "clone_url": "https://android.googlesource.com/platform/pdk"
+  },
+  "platform/prebuilt": {
+    "name": "platform/prebuilt",
+    "clone_url": "https://android.googlesource.com/platform/prebuilt",
+    "description": "binaries to support linux and osx builds"
+  },
+  "platform/prebuilts/android-emulator": {
+    "name": "platform/prebuilts/android-emulator",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/android-emulator"
+  },
+  "platform/prebuilts/clang/darwin-x86/3.1": {
+    "name": "platform/prebuilts/clang/darwin-x86/3.1",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/clang/darwin-x86/3.1"
+  },
+  "platform/prebuilts/clang/darwin-x86/3.2": {
+    "name": "platform/prebuilts/clang/darwin-x86/3.2",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/clang/darwin-x86/3.2"
+  },
+  "platform/prebuilts/clang/darwin-x86/arm/3.3": {
+    "name": "platform/prebuilts/clang/darwin-x86/arm/3.3",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/clang/darwin-x86/arm/3.3"
+  },
+  "platform/prebuilts/clang/darwin-x86/host/3.3": {
+    "name": "platform/prebuilts/clang/darwin-x86/host/3.3",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/clang/darwin-x86/host/3.3"
+  },
+  "platform/prebuilts/clang/darwin-x86/host/3.4": {
+    "name": "platform/prebuilts/clang/darwin-x86/host/3.4",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/clang/darwin-x86/host/3.4"
+  },
+  "platform/prebuilts/clang/darwin-x86/host/3.5": {
+    "name": "platform/prebuilts/clang/darwin-x86/host/3.5",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/clang/darwin-x86/host/3.5"
+  },
+  "platform/prebuilts/clang/darwin-x86/mips/3.3": {
+    "name": "platform/prebuilts/clang/darwin-x86/mips/3.3",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/clang/darwin-x86/mips/3.3"
+  },
+  "platform/prebuilts/clang/darwin-x86/x86/3.3": {
+    "name": "platform/prebuilts/clang/darwin-x86/x86/3.3",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/clang/darwin-x86/x86/3.3"
+  },
+  "platform/prebuilts/clang/linux-x86/3.1": {
+    "name": "platform/prebuilts/clang/linux-x86/3.1",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/clang/linux-x86/3.1"
+  },
+  "platform/prebuilts/clang/linux-x86/3.2": {
+    "name": "platform/prebuilts/clang/linux-x86/3.2",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/clang/linux-x86/3.2"
+  },
+  "platform/prebuilts/clang/linux-x86/arm/3.3": {
+    "name": "platform/prebuilts/clang/linux-x86/arm/3.3",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/clang/linux-x86/arm/3.3"
+  },
+  "platform/prebuilts/clang/linux-x86/host/3.3": {
+    "name": "platform/prebuilts/clang/linux-x86/host/3.3",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/clang/linux-x86/host/3.3"
+  },
+  "platform/prebuilts/clang/linux-x86/host/3.4": {
+    "name": "platform/prebuilts/clang/linux-x86/host/3.4",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/clang/linux-x86/host/3.4"
+  },
+  "platform/prebuilts/clang/linux-x86/host/3.5": {
+    "name": "platform/prebuilts/clang/linux-x86/host/3.5",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/clang/linux-x86/host/3.5"
+  },
+  "platform/prebuilts/clang/linux-x86/mips/3.3": {
+    "name": "platform/prebuilts/clang/linux-x86/mips/3.3",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/clang/linux-x86/mips/3.3"
+  },
+  "platform/prebuilts/clang/linux-x86/x86/3.3": {
+    "name": "platform/prebuilts/clang/linux-x86/x86/3.3",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/clang/linux-x86/x86/3.3"
+  },
+  "platform/prebuilts/devtools": {
+    "name": "platform/prebuilts/devtools",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/devtools"
+  },
+  "platform/prebuilts/eclipse": {
+    "name": "platform/prebuilts/eclipse",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/eclipse",
+    "description": "Prebuilt packages from the Eclipse project, used to build components of the SDK."
+  },
+  "platform/prebuilts/eclipse-build-deps": {
+    "name": "platform/prebuilts/eclipse-build-deps",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/eclipse-build-deps"
+  },
+  "platform/prebuilts/eclipse-build-deps-sources": {
+    "name": "platform/prebuilts/eclipse-build-deps-sources",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/eclipse-build-deps-sources"
+  },
+  "platform/prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.8": {
+    "name": "platform/prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.8",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.8"
+  },
+  "platform/prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9": {
+    "name": "platform/prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9"
+  },
+  "platform/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.6": {
+    "name": "platform/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.6",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.6"
+  },
+  "platform/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.7": {
+    "name": "platform/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.7",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.7"
+  },
+  "platform/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.8": {
+    "name": "platform/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.8",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.8"
+  },
+  "platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.6": {
+    "name": "platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.6",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.6"
+  },
+  "platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.7": {
+    "name": "platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.7",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.7"
+  },
+  "platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.8": {
+    "name": "platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.8",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.8"
+  },
+  "platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9": {
+    "name": "platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9"
+  },
+  "platform/prebuilts/gcc/darwin-x86/host/headers": {
+    "name": "platform/prebuilts/gcc/darwin-x86/host/headers",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/gcc/darwin-x86/host/headers"
+  },
+  "platform/prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1": {
+    "name": "platform/prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1"
+  },
+  "platform/prebuilts/gcc/darwin-x86/mips/mips64el-linux-android-4.8": {
+    "name": "platform/prebuilts/gcc/darwin-x86/mips/mips64el-linux-android-4.8",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/gcc/darwin-x86/mips/mips64el-linux-android-4.8"
+  },
+  "platform/prebuilts/gcc/darwin-x86/mips/mips64el-linux-android-4.9": {
+    "name": "platform/prebuilts/gcc/darwin-x86/mips/mips64el-linux-android-4.9",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/gcc/darwin-x86/mips/mips64el-linux-android-4.9"
+  },
+  "platform/prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.4.3": {
+    "name": "platform/prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.4.3",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.4.3",
+    "description": "MIPS 4.4.3 toolchain, for 32-bit MacOS."
+  },
+  "platform/prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.6": {
+    "name": "platform/prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.6",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.6"
+  },
+  "platform/prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.7": {
+    "name": "platform/prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.7",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.7"
+  },
+  "platform/prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.8": {
+    "name": "platform/prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.8",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.8"
+  },
+  "platform/prebuilts/gcc/darwin-x86/x86/i686-android-linux-4.4.3": {
+    "name": "platform/prebuilts/gcc/darwin-x86/x86/i686-android-linux-4.4.3",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/gcc/darwin-x86/x86/i686-android-linux-4.4.3"
+  },
+  "platform/prebuilts/gcc/darwin-x86/x86/i686-android-linux-4.6": {
+    "name": "platform/prebuilts/gcc/darwin-x86/x86/i686-android-linux-4.6",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/gcc/darwin-x86/x86/i686-android-linux-4.6"
+  },
+  "platform/prebuilts/gcc/darwin-x86/x86/i686-linux-android-4.6": {
+    "name": "platform/prebuilts/gcc/darwin-x86/x86/i686-linux-android-4.6",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/gcc/darwin-x86/x86/i686-linux-android-4.6"
+  },
+  "platform/prebuilts/gcc/darwin-x86/x86/i686-linux-android-4.7": {
+    "name": "platform/prebuilts/gcc/darwin-x86/x86/i686-linux-android-4.7",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/gcc/darwin-x86/x86/i686-linux-android-4.7"
+  },
+  "platform/prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.7": {
+    "name": "platform/prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.7",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.7"
+  },
+  "platform/prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.8": {
+    "name": "platform/prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.8",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.8"
+  },
+  "platform/prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9": {
+    "name": "platform/prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9"
+  },
+  "platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.8": {
+    "name": "platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.8",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.8"
+  },
+  "platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9": {
+    "name": "platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9"
+  },
+  "platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6": {
+    "name": "platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6"
+  },
+  "platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.7": {
+    "name": "platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.7",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.7"
+  },
+  "platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8": {
+    "name": "platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8"
+  },
+  "platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.6": {
+    "name": "platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.6",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.6"
+  },
+  "platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.7": {
+    "name": "platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.7",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.7"
+  },
+  "platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8": {
+    "name": "platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8"
+  },
+  "platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9": {
+    "name": "platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9"
+  },
+  "platform/prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.4.3": {
+    "name": "platform/prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.4.3",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.4.3"
+  },
+  "platform/prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.6": {
+    "name": "platform/prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.6",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.6"
+  },
+  "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.6": {
+    "name": "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.6",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.6"
+  },
+  "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8": {
+    "name": "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8"
+  },
+  "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.7-4.6": {
+    "name": "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.7-4.6",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.7-4.6"
+  },
+  "platform/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8": {
+    "name": "platform/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8"
+  },
+  "platform/prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.8": {
+    "name": "platform/prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.8",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.8"
+  },
+  "platform/prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.9": {
+    "name": "platform/prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.9",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.9"
+  },
+  "platform/prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.4.3": {
+    "name": "platform/prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.4.3",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.4.3",
+    "description": "MIPS 4.4.3 toolchain, for 32-bit linux."
+  },
+  "platform/prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.6": {
+    "name": "platform/prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.6",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.6"
+  },
+  "platform/prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.7": {
+    "name": "platform/prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.7",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.7"
+  },
+  "platform/prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.8": {
+    "name": "platform/prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.8",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.8"
+  },
+  "platform/prebuilts/gcc/linux-x86/x86/i686-android-linux-4.4.3": {
+    "name": "platform/prebuilts/gcc/linux-x86/x86/i686-android-linux-4.4.3",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/x86/i686-android-linux-4.4.3"
+  },
+  "platform/prebuilts/gcc/linux-x86/x86/i686-android-linux-4.6": {
+    "name": "platform/prebuilts/gcc/linux-x86/x86/i686-android-linux-4.6",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/x86/i686-android-linux-4.6"
+  },
+  "platform/prebuilts/gcc/linux-x86/x86/i686-linux-android-4.6": {
+    "name": "platform/prebuilts/gcc/linux-x86/x86/i686-linux-android-4.6",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/x86/i686-linux-android-4.6"
+  },
+  "platform/prebuilts/gcc/linux-x86/x86/i686-linux-android-4.7": {
+    "name": "platform/prebuilts/gcc/linux-x86/x86/i686-linux-android-4.7",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/x86/i686-linux-android-4.7"
+  },
+  "platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.7": {
+    "name": "platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.7",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.7"
+  },
+  "platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.8": {
+    "name": "platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.8",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.8"
+  },
+  "platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9": {
+    "name": "platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9"
+  },
+  "platform/prebuilts/gradle-plugin": {
+    "name": "platform/prebuilts/gradle-plugin",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/gradle-plugin"
+  },
+  "platform/prebuilts/maven_repo/android": {
+    "name": "platform/prebuilts/maven_repo/android",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/maven_repo/android"
+  },
+  "platform/prebuilts/misc": {
+    "name": "platform/prebuilts/misc",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/misc",
+    "description": "Miscellaneous prebuilt modules"
+  },
+  "platform/prebuilts/ndk": {
+    "name": "platform/prebuilts/ndk",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/ndk"
+  },
+  "platform/prebuilts/python/darwin-x86/2.7.5": {
+    "name": "platform/prebuilts/python/darwin-x86/2.7.5",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/python/darwin-x86/2.7.5"
+  },
+  "platform/prebuilts/python/linux-x86/2.7.5": {
+    "name": "platform/prebuilts/python/linux-x86/2.7.5",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/python/linux-x86/2.7.5"
+  },
+  "platform/prebuilts/qemu-kernel": {
+    "name": "platform/prebuilts/qemu-kernel",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/qemu-kernel"
+  },
+  "platform/prebuilts/runtime": {
+    "name": "platform/prebuilts/runtime",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/runtime"
+  },
+  "platform/prebuilts/sdk": {
+    "name": "platform/prebuilts/sdk",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/sdk"
+  },
+  "platform/prebuilts/tools": {
+    "name": "platform/prebuilts/tools",
+    "clone_url": "https://android.googlesource.com/platform/prebuilts/tools"
+  },
+  "platform/sdk": {
+    "name": "platform/sdk",
+    "clone_url": "https://android.googlesource.com/platform/sdk",
+    "description": "Development Tools for the SDK"
+  },
+  "platform/system/bluetooth": {
+    "name": "platform/system/bluetooth",
+    "clone_url": "https://android.googlesource.com/platform/system/bluetooth",
+    "description": "bluetooth tools"
+  },
+  "platform/system/core": {
+    "name": "platform/system/core",
+    "clone_url": "https://android.googlesource.com/platform/system/core",
+    "description": "minimal bootable environment"
+  },
+  "platform/system/extras": {
+    "name": "platform/system/extras",
+    "clone_url": "https://android.googlesource.com/platform/system/extras",
+    "description": "debugging/inspection tools"
+  },
+  "platform/system/keymaster": {
+    "name": "platform/system/keymaster",
+    "clone_url": "https://android.googlesource.com/platform/system/keymaster"
+  },
+  "platform/system/media": {
+    "name": "platform/system/media",
+    "clone_url": "https://android.googlesource.com/platform/system/media"
+  },
+  "platform/system/netd": {
+    "name": "platform/system/netd",
+    "clone_url": "https://android.googlesource.com/platform/system/netd"
+  },
+  "platform/system/security": {
+    "name": "platform/system/security",
+    "clone_url": "https://android.googlesource.com/platform/system/security"
+  },
+  "platform/system/vold": {
+    "name": "platform/system/vold",
+    "clone_url": "https://android.googlesource.com/platform/system/vold"
+  },
+  "platform/system/wlan/ti": {
+    "name": "platform/system/wlan/ti",
+    "clone_url": "https://android.googlesource.com/platform/system/wlan/ti",
+    "description": "TI 1251 WLAN driver and tools"
+  },
+  "platform/tools/adt/eclipse": {
+    "name": "platform/tools/adt/eclipse",
+    "clone_url": "https://android.googlesource.com/platform/tools/adt/eclipse"
+  },
+  "platform/tools/adt/idea": {
+    "name": "platform/tools/adt/idea",
+    "clone_url": "https://android.googlesource.com/platform/tools/adt/idea"
+  },
+  "platform/tools/base": {
+    "name": "platform/tools/base",
+    "clone_url": "https://android.googlesource.com/platform/tools/base"
+  },
+  "platform/tools/build": {
+    "name": "platform/tools/build",
+    "clone_url": "https://android.googlesource.com/platform/tools/build"
+  },
+  "platform/tools/buildSrc": {
+    "name": "platform/tools/buildSrc",
+    "clone_url": "https://android.googlesource.com/platform/tools/buildSrc"
+  },
+  "platform/tools/emulator": {
+    "name": "platform/tools/emulator",
+    "clone_url": "https://android.googlesource.com/platform/tools/emulator"
+  },
+  "platform/tools/external/fat32lib": {
+    "name": "platform/tools/external/fat32lib",
+    "clone_url": "https://android.googlesource.com/platform/tools/external/fat32lib"
+  },
+  "platform/tools/external/gradle": {
+    "name": "platform/tools/external/gradle",
+    "clone_url": "https://android.googlesource.com/platform/tools/external/gradle"
+  },
+  "platform/tools/gpu": {
+    "name": "platform/tools/gpu",
+    "clone_url": "https://android.googlesource.com/platform/tools/gpu"
+  },
+  "platform/tools/gradle": {
+    "name": "platform/tools/gradle",
+    "clone_url": "https://android.googlesource.com/platform/tools/gradle"
+  },
+  "platform/tools/idea": {
+    "name": "platform/tools/idea",
+    "clone_url": "https://android.googlesource.com/platform/tools/idea"
+  },
+  "platform/tools/loganalysis": {
+    "name": "platform/tools/loganalysis",
+    "clone_url": "https://android.googlesource.com/platform/tools/loganalysis"
+  },
+  "platform/tools/motodev": {
+    "name": "platform/tools/motodev",
+    "clone_url": "https://android.googlesource.com/platform/tools/motodev"
+  },
+  "platform/tools/studio/cloud": {
+    "name": "platform/tools/studio/cloud",
+    "clone_url": "https://android.googlesource.com/platform/tools/studio/cloud"
+  },
+  "platform/tools/studio/google/cloud/testing": {
+    "name": "platform/tools/studio/google/cloud/testing",
+    "clone_url": "https://android.googlesource.com/platform/tools/studio/google/cloud/testing"
+  },
+  "platform/tools/studio/google/cloud/tools": {
+    "name": "platform/tools/studio/google/cloud/tools",
+    "clone_url": "https://android.googlesource.com/platform/tools/studio/google/cloud/tools"
+  },
+  "platform/tools/studio/google/login": {
+    "name": "platform/tools/studio/google/login",
+    "clone_url": "https://android.googlesource.com/platform/tools/studio/google/login"
+  },
+  "platform/tools/studio/google/play": {
+    "name": "platform/tools/studio/google/play",
+    "clone_url": "https://android.googlesource.com/platform/tools/studio/google/play"
+  },
+  "platform/tools/studio/translation": {
+    "name": "platform/tools/studio/translation",
+    "clone_url": "https://android.googlesource.com/platform/tools/studio/translation"
+  },
+  "platform/tools/swt": {
+    "name": "platform/tools/swt",
+    "clone_url": "https://android.googlesource.com/platform/tools/swt"
+  },
+  "platform/tools/tradefederation": {
+    "name": "platform/tools/tradefederation",
+    "clone_url": "https://android.googlesource.com/platform/tools/tradefederation"
+  },
+  "platform/vendor/htc/dream-open": {
+    "name": "platform/vendor/htc/dream-open",
+    "clone_url": "https://android.googlesource.com/platform/vendor/htc/dream-open",
+    "description": "build configuration for HTC Dream"
+  },
+  "platform/vendor/invensense": {
+    "name": "platform/vendor/invensense",
+    "clone_url": "https://android.googlesource.com/platform/vendor/invensense"
+  },
+  "platform/vendor/sample": {
+    "name": "platform/vendor/sample",
+    "clone_url": "https://android.googlesource.com/platform/vendor/sample"
+  },
+  "Platform-Chromium-Projects": {
+    "name": "Platform-Chromium-Projects",
+    "clone_url": "https://android.googlesource.com/Platform-Chromium-Projects",
+    "description": "Parent projects for all projects with suffix platform/external/chromium_org.  These projects are largely read-only, but may need the occasional commit."
+  },
+  "Platform-Projects": {
+    "name": "Platform-Projects",
+    "clone_url": "https://android.googlesource.com/Platform-Projects",
+    "description": "Base project for all active Android platform projects, containing rights that all platform maintainers have for all projects."
+  },
+  "Platform-Unrestricted-Projects": {
+    "name": "Platform-Unrestricted-Projects",
+    "clone_url": "https://android.googlesource.com/Platform-Unrestricted-Projects",
+    "description": "Base project for Android platform where all platform maintainers have full approval and submit rights."
+  },
+  "Public-Projects": {
+    "name": "Public-Projects",
+    "clone_url": "https://android.googlesource.com/Public-Projects"
+  },
+  "toolchain/avr-libc": {
+    "name": "toolchain/avr-libc",
+    "clone_url": "https://android.googlesource.com/toolchain/avr-libc"
+  },
+  "toolchain/benchmark": {
+    "name": "toolchain/benchmark",
+    "clone_url": "https://android.googlesource.com/toolchain/benchmark"
+  },
+  "toolchain/binutils": {
+    "name": "toolchain/binutils",
+    "clone_url": "https://android.googlesource.com/toolchain/binutils"
+  },
+  "toolchain/build": {
+    "name": "toolchain/build",
+    "clone_url": "https://android.googlesource.com/toolchain/build"
+  },
+  "toolchain/ccache": {
+    "name": "toolchain/ccache",
+    "clone_url": "https://android.googlesource.com/toolchain/ccache"
+  },
+  "toolchain/clang": {
+    "name": "toolchain/clang",
+    "clone_url": "https://android.googlesource.com/toolchain/clang"
+  },
+  "toolchain/cloog": {
+    "name": "toolchain/cloog",
+    "clone_url": "https://android.googlesource.com/toolchain/cloog"
+  },
+  "toolchain/compiler-rt": {
+    "name": "toolchain/compiler-rt",
+    "clone_url": "https://android.googlesource.com/toolchain/compiler-rt"
+  },
+  "toolchain/expat": {
+    "name": "toolchain/expat",
+    "clone_url": "https://android.googlesource.com/toolchain/expat"
+  },
+  "toolchain/gcc": {
+    "name": "toolchain/gcc",
+    "clone_url": "https://android.googlesource.com/toolchain/gcc"
+  },
+  "toolchain/gdb": {
+    "name": "toolchain/gdb",
+    "clone_url": "https://android.googlesource.com/toolchain/gdb"
+  },
+  "toolchain/gmp": {
+    "name": "toolchain/gmp",
+    "clone_url": "https://android.googlesource.com/toolchain/gmp"
+  },
+  "toolchain/gold": {
+    "name": "toolchain/gold",
+    "clone_url": "https://android.googlesource.com/toolchain/gold"
+  },
+  "toolchain/isl": {
+    "name": "toolchain/isl",
+    "clone_url": "https://android.googlesource.com/toolchain/isl"
+  },
+  "toolchain/jack": {
+    "name": "toolchain/jack",
+    "clone_url": "https://android.googlesource.com/toolchain/jack"
+  },
+  "toolchain/jill": {
+    "name": "toolchain/jill",
+    "clone_url": "https://android.googlesource.com/toolchain/jill"
+  },
+  "toolchain/llvm": {
+    "name": "toolchain/llvm",
+    "clone_url": "https://android.googlesource.com/toolchain/llvm"
+  },
+  "toolchain/manifest": {
+    "name": "toolchain/manifest",
+    "clone_url": "https://android.googlesource.com/toolchain/manifest"
+  },
+  "toolchain/mclinker": {
+    "name": "toolchain/mclinker",
+    "clone_url": "https://android.googlesource.com/toolchain/mclinker"
+  },
+  "toolchain/mpc": {
+    "name": "toolchain/mpc",
+    "clone_url": "https://android.googlesource.com/toolchain/mpc"
+  },
+  "toolchain/mpfr": {
+    "name": "toolchain/mpfr",
+    "clone_url": "https://android.googlesource.com/toolchain/mpfr"
+  },
+  "toolchain/perl": {
+    "name": "toolchain/perl",
+    "clone_url": "https://android.googlesource.com/toolchain/perl"
+  },
+  "toolchain/polly": {
+    "name": "toolchain/polly",
+    "clone_url": "https://android.googlesource.com/toolchain/polly"
+  },
+  "toolchain/ppl": {
+    "name": "toolchain/ppl",
+    "clone_url": "https://android.googlesource.com/toolchain/ppl"
+  },
+  "toolchain/python": {
+    "name": "toolchain/python",
+    "clone_url": "https://android.googlesource.com/toolchain/python"
+  },
+  "toolchain/valgrind": {
+    "name": "toolchain/valgrind",
+    "clone_url": "https://android.googlesource.com/toolchain/valgrind"
+  },
+  "toolchain/yasm": {
+    "name": "toolchain/yasm",
+    "clone_url": "https://android.googlesource.com/toolchain/yasm"
+  },
+  "tools/aospstats": {
+    "name": "tools/aospstats",
+    "clone_url": "https://android.googlesource.com/tools/aospstats",
+    "description": "A project to collect and display stats about AOSP."
+  },
+  "tools/repo": {
+    "name": "tools/repo",
+    "clone_url": "https://android.googlesource.com/tools/repo"
+  }
+}
