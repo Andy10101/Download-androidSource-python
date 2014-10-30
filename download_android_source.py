@@ -35,7 +35,7 @@ if __name__ == '__main__':
              count += 1;
              savePath = dirName + "/" + name;
              print "\n\n\n"
-			 print "NO."+count
+             print count
              if os.path.exists(savePath):
                  cmd = "cd " + savePath + "\n";
                  cmd += "git pull \n"
